@@ -4,7 +4,7 @@ As a new user, these are the first steps you should take to get started:
 
 * Create a TRIGGERcmd account [here](https://www.triggercmd.com/user/auth/signup).
 
-* Install a TRIGGERcmd agent on your computer.  Scroll to the bottom of [this page]
+* Install a TRIGGERcmd agent on your computer.  
 
   * [Windows Agent](https://agents.triggercmd.com/TRIGGERcmdAgentSetup.exe)
   * [Mac Agent](https://agents.triggercmd.com/TRIGGERcmdAgent.dmg)
@@ -19,9 +19,9 @@ Success!
 
 Now you're ready to add your own commmands and run them via:
 
-* Alexa
-* Google Assistant
-* SmartThings
-* Zapier
-* IFTTT
-* tcmd cli
+* [Alexa](./SmartHomeAlexa.md)
+* [Google Assistant](./SmartHomeGoogle.md)
+* [SmartThings](./SmartThings.md)
+* [Zapier](./Zapier.md)
+* [IFTTT](./IFTTT.md)
+* [tcmd CLI](./tcmdCLI.md)
