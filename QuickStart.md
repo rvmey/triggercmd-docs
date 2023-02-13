@@ -17,11 +17,12 @@ As a new user, these are the first steps you should take to get started:
 
 Success!
 
-Now you're ready to add your own commmands and run them via:
+Now you're ready to [add your own commmands](./CreateCommands.md).
+
+Or check out one of these popular ways to run your commands: 
 
 * [Alexa](./SmartHomeAlexa.md)
 * [Google Assistant](./SmartHomeGoogle.md)
 * [SmartThings](./SmartThings.md)
 * [Zapier](./Zapier.md)
 * [IFTTT](./IFTTT.md)
-* [tcmd CLI](./tcmdCLI.md)

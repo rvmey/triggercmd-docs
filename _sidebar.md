@@ -2,7 +2,7 @@
 
 * [TRIGGERcmd](https://www.triggercmd.com)
 
-* [QuickStart](./QuickStart.md)
+* [Quick Start](./QuickStart.md)
 
 * [Create commands](./CreateCommands.md)
 
