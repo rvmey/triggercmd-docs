@@ -10,7 +10,8 @@
 * [Add a commands](./tutorials/cloud/index)
 * [Trigger a command](./tutorials/java/index)
 
-# [tcmd cli](./tutorials/java/index)
-# [Computer Sharing](./tutorials/java/index)
+* [tcmd cli](./tcmdCLI.md)
+* [Computer Sharing](./ComputerSharing.md)
+* [SmartThings](./SmartThings.md)
 
 * [Forum](https://www.triggercmd.com/forum)

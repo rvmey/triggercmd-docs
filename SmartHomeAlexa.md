@@ -1,4 +1,8 @@
-Click the appropriate Amazon link for your country below, then link your Amazon account to your TRIGGERcmd account.  
+# Smart Home Alexa skill
+
+## Activate the **TRIGGERcmd Smart Home** Alexa skill
+
+Click the appropriate Amazon link for your language below, then link your Amazon account to your TRIGGERcmd account.  
 
 * [United States (english)](https://www.amazon.com/dp/B07P1MMFRP)
 * [Brazil](https://www.amazon.com.br/VanderMey-Consulting-LLC-TRIGGERcmd-Smart/dp/B07P1MMFRP)  ([Portuguese video]( https://www.youtube.com/watch?v=FTxIabp8CRg))
@@ -17,4 +21,12 @@ You should now have a virtual switch called "calculator" so you can say, "Alexa,
 
 Click [here](./SmartHomeSwitches.md) for more detail about these virtual switches.
 
-Also this [YouTube video](https://www.youtube.com/watch?v=9Jm_s9sTZXw) shows how it works.
+This [YouTube video](https://www.youtube.com/watch?v=9Jm_s9sTZXw) shows how it works.
+
+To see a list sentences to run your commands via the conversational skills, see the [Smart Home Voice Commands](https://www.triggercmd.com/user/command/shprintlist) page.
+
+## Alternative Alexa skills
+
+For most use-cases, the **TRIGGERcmd Smart Home** Alexa skill works best, but there are some that can only be accomplished using one of the conversational Alexa skills.  For example, the **Voice Reply** field only works with conversational skills.
+
+The conversational skills do not create a virtual switch for each command like the Smart Home skill does, so Alexa doesn't have a list of what you might say ahead of time, which make it less likely Alexa will successfully match your spoken words to your commands.  

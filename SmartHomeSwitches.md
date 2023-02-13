@@ -1,11 +1,14 @@
-# Virtual switch creation and naming
+# Virtual Smart Home Switches
 
-Both your commands and your computers have a **voice** field that determines what your virtual switches are named.  If those voice fields are empty, a virtual switch may not be created.  
+## Integrations that create virtual switches
 
-These integrations create virtual switches:
 * TRIGGERcmd Smart Home Alexa skill
 * TRIGGERcmd Smart Home Google Assistant action
 * TRIGGERcmd Samsung SmartThings integration
+
+## Switch creation and naming
+
+Both commands and computers have a **voice** field that determines what your virtual switches will be named.  If those voice fields are empty, a virtual switch may not be created.  
 
 For a virtual switch to be created, each of your commands must have a value in the **voice** field (like "calculator") because the command's **voice** field value is used in the name of the virtual switch.  
 
