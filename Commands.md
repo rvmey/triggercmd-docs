@@ -1,12 +1,8 @@
-# Create Commands
-
 ![GUI Editor](./images/gui-editor.png)
 
 ## Creating commands
 
 The easiest way to add or edit commands is with the GUI Command Editor shown above.
-
-The command fields are:
 
 | Field | Description |
 | --- | ----------- |
@@ -18,7 +14,7 @@ The command fields are:
 | Voice Reply | What Alexa or Google Assistant will say back to you |
 | Allow Parameters | Whether to allow parameters |
 
-## Some details
+## Details
 
 The **Trigger** field is basically a name for your command, but Alexa and Google Assistant don't use that name.  They use the **Voice** field to find your trigger.  
 
