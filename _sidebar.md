@@ -4,11 +4,10 @@
 
 * [Quick Start](./QuickStart.md)
 
-* [Create commands](./CreateCommands.md)
+* [Commands](./Commands.md)
 
-* [Install an agent](./tutorials/tomcat/index)
-* [Add a commands](./tutorials/cloud/index)
-* [Trigger a command](./tutorials/java/index)
+* [Agents](./tutorials/tomcat/index)
+* [Trigger a command](./TriggerCommands.md)
 
 * [tcmd cli](./tcmdCLI.md)
 * [Computer Sharing](./ComputerSharing.md)
