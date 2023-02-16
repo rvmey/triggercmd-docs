@@ -22,6 +22,6 @@ The **Off Command** field is only available when **Allow Parameters** is true be
 
 Only set **Ground** to background if you've installed the background agent.  You can install background agent on Windows and Linux (including Raspberry Pi), but not Mac.  The background agent starts when your computer boots instead of starting when you login, so you could use it to reboot even if you're not logged in.  
 
-The **Voice Reply** field is only for the "conversational" version of the Alexa skill and Google Assistant actions.  The "Smart Home" skill/action does **not** it.  
+The **Voice Reply** field is only for the "conversational" Alexa skills and Google Assistant actions.  The "Smart Home" skill/action does **not** use it.  It can include the {{trigger}}, {{computer}}, and [{{result}}](https://www.triggercmd.com/forum/topic/422/have-alexa-or-google-assistant-say-the-result-of-a-command) placeholders.  
 
 For added security, your commands are **not** stored in the cloud.  They are only stored on your computer in a file called commands.json.  You can find it in your .TRIGGERcmdData folder in your user's home folder.  You might want to back it up occasionally.  

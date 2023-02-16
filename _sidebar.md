@@ -8,8 +8,8 @@
 * Voice Assistants
   * [Alexa](./Alexa.md)
   * [Google Assistant](./GoogleAssistant.md)
-* [SmartThings](./SmartThings.md)
 * [IFTTT](./IFTTT.md)
 * [Zapier](./Zapier.md)
+* [SmartThings](./SmartThings.md)
 * [tcmd cli tool](./tcmdCLI.md)
 * [Computer Sharing](./ComputerSharing.md)

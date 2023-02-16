@@ -1,7 +1,5 @@
 # Quick Start
 
-As a new user, these are the first steps you should take to get started:
-
 * Create a TRIGGERcmd account [here](https://www.triggercmd.com/user/auth/signup).
 
 * Install a TRIGGERcmd agent on your computer.  
@@ -23,6 +21,6 @@ Or check out one of these popular ways to run your commands:
 
 * [Alexa](./SmartHomeAlexa.md)
 * [Google Assistant](./SmartHomeGoogle.md)
-* [SmartThings](./SmartThings.md)
-* [Zapier](./Zapier.md)
 * [IFTTT](./IFTTT.md)
+* [Zapier](./Zapier.md)
+* [SmartThings](./SmartThings.md)
