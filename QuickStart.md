@@ -17,7 +17,7 @@ As a new user, these are the first steps you should take to get started:
 
 Success!
 
-Now you're ready to [add your own commmands](./CreateCommands.md).
+Now you're ready to [add your own commmands](./Commands.md).
 
 Or check out one of these popular ways to run your commands: 
 
