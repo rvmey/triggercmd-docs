@@ -1,16 +1,16 @@
 <!-- docs/_sidebar.md -->
 
-* [TRIGGERcmd](https://www.triggercmd.com)
-
 * [Quick Start](./QuickStart.md)
 
+* [Computers](./Computers.md)
 * [Commands](./Commands.md)
-
-* [Agents](./tutorials/tomcat/index)
 * [Trigger a command](./TriggerCommands.md)
-
 * [tcmd cli](./tcmdCLI.md)
 * [Computer Sharing](./ComputerSharing.md)
+* Voice Assistants
+  * [Alexa](./Alexa.md)
+  * [Google Assistant](./GoogleAssistant.md)
 * [SmartThings](./SmartThings.md)
-
-* [Forum](https://www.triggercmd.com/forum)
+* [IFTTT](./IFTTT.md)
+* [Zapier](./Zapier.md)
+* [TRIGGERcmd Home Page](https://www.triggercmd.com)

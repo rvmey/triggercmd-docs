@@ -23,7 +23,7 @@ Click [here](./SmartHomeSwitches.md) for more detail about these virtual switche
 
 This [YouTube video](https://www.youtube.com/watch?v=9Jm_s9sTZXw) shows how it works.
 
-To see a list sentences to run your commands via the conversational skills, see the [Smart Home Voice Commands](https://www.triggercmd.com/user/command/shprintlist) page.
+To see a list of sentences that will run your commands via the TRIGGERcmd Smart Home skill, see the [Smart Home Voice Commands](https://www.triggercmd.com/user/command/shprintlist) page.
 
 ## Alternative Alexa skills
 
