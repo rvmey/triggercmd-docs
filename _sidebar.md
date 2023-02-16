@@ -11,5 +11,6 @@
 * [IFTTT](./IFTTT.md)
 * [Zapier](./Zapier.md)
 * [SmartThings](./SmartThings.md)
+* [Make](./Make.md)
 * [tcmd cli tool](./tcmdCLI.md)
 * [Computer Sharing](./ComputerSharing.md)
