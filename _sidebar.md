@@ -13,4 +13,3 @@
 * [Zapier](./Zapier.md)
 * [tcmd cli tool](./tcmdCLI.md)
 * [Computer Sharing](./ComputerSharing.md)
-* [TRIGGERcmd Home Page](https://www.triggercmd.com)
