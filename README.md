@@ -1,6 +1,4 @@
-# TRIGGERcmd Documentation
-
-![TRIGGERcmd.com](./images/logo.jpg)
+[![TRIGGERcmd.com](./images/logo.jpg)](https://www.triggercmd.com)
 
 [TRIGGERcmd](https://www.triggercmd.com) is a cloud service that allows you to securely and remotely run commands on your computers.
 
