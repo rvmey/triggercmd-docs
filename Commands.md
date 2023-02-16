@@ -1,8 +1,8 @@
-![GUI Editor](./images/gui-editor.png)
-
 ## Creating commands
 
-The easiest way to add or edit commands is with the GUI Command Editor shown above.
+The easiest way to add or edit commands is with the GUI Command Editor shown below.
+
+![GUI Editor](./images/gui-editor.png)
 
 | Field | Description |
 | --- | ----------- |
