@@ -1,8 +1,8 @@
 # Microsoft Power Automate
 
-## Build a flow with the Microsoft Power Automate [TRIGGERcmd connector](https://powerautomate.microsoft.com/en-US/connectors/details/shared_triggercmd/triggercmd/)
+## Build a Microsoft Power Automate flow
 
-1. When you create a flow, click New step, and select the TRIGGERcmd connector.  
+1. When you create a flow, click New step, and select the **[TRIGGERcmd connector](https://powerautomate.microsoft.com/en-US/connectors/details/shared_triggercmd/triggercmd/)**
 
 2. Fill pick a **Computer** and a command, **Command** to run.
 
