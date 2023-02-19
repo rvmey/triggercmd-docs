@@ -13,6 +13,6 @@
   * [Zapier](./Zapier.md)
   * [SmartThings](./SmartThings.md)
   * [Make](./Make.md)
-  * [Microsoft Power Apps](./MSPowerApps.md)
+  * [Microsoft Power Automate](./MSPowerAutomate.md)
 * [tcmd cli tool](./tcmdCLI.md)
 * [Computer Sharing](./ComputerSharing.md)
