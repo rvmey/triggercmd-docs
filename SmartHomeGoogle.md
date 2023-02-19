@@ -1,5 +1,5 @@
 # Smart Home Google Assistant action
-actions
+
 ## Activate the **TRIGGERcmd Smart Home** Alexa skill
 
 Click [here](https://assistant.google.com/services/a/uid/0000002be4521c02) for a direct link to the TRIGGERcmd Smart Home page, but you can't activate the action from there.  
