@@ -2,11 +2,12 @@
 
 ## Build a Microsoft Power Automate flow
 
-1. When you create a flow, click New step, and select the **[TRIGGERcmd connector](https://powerautomate.microsoft.com/en-US/connectors/details/shared_triggercmd/triggercmd/)**
+* When you create a flow, click New step, and select the **[TRIGGERcmd connector](https://powerautomate.microsoft.com/en-US/connectors/details/shared_triggercmd/triggercmd/)**
 
-2. Fill pick a **Computer** and a command, **Command** to run.
-
-3. Optionally, pass parameters from the previous step in the flow as a command parameter.
+* Fill these fields under Run command:
+  * Command - Trigger name
+  * Computer - Computer name
+  * Parameters - Optionally send text from the previous flow step as command parameters
 
 ![TRIGGERcmd.com](./images/ms-power-automate.png)
 
