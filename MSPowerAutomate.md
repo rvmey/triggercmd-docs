@@ -7,7 +7,7 @@
 * Fill these fields under Run command:
   * Command - Trigger name
   * Computer - Computer name
-  * Parameters - Optionally send text from the previous flow step as command parameters
+  * Parameters - Optionally include text from the previous flow step in command parameters
 
 ![TRIGGERcmd.com](./images/ms-power-automate.png)
 
