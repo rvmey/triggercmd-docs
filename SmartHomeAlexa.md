@@ -5,7 +5,7 @@
 Click the appropriate Amazon link for your language below, then link your Amazon account to your TRIGGERcmd account.  
 
 * [United States (english)](https://www.amazon.com/dp/B07P1MMFRP)
-* [Brazil](https://www.amazon.com.br/VanderMey-Consulting-LLC-TRIGGERcmd-Smart/dp/B07P1MMFRP)  ([Portuguese video]( https://www.youtube.com/watch?v=FTxIabp8CRg))
+* [Brazil](https://www.amazon.com.br/VanderMey-Consulting-LLC-TRIGGERcmd-Smart/dp/B07P1MMFRP)  ([Portuguese video](https://www.youtube.com/watch?v=FTxIabp8CRg))
 * [Germany](https://www.amazon.de/VanderMey-Consulting-LLC-TRIGGERcmd-Smart/dp/B07P1MMFRP)
 * [Canada](https://www.amazon.ca/VanderMey-Consulting-LLC-TRIGGERcmd-Smart/dp/B07P1MMFRP)
 * [Australia](https://www.amazon.com.au/VanderMey-Consulting-LLC-TRIGGERcmd-Smart/dp/B07P1MMFRP)
