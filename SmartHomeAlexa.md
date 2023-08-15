@@ -25,6 +25,14 @@ This [YouTube video](https://www.youtube.com/watch?v=9Jm_s9sTZXw) shows how it w
 
 To see a list of sentences that will run your commands via the TRIGGERcmd Smart Home skill, see the [Smart Home Voice Commands](https://www.triggercmd.com/user/command/shprintlist) page.
 
+## Trigger Alexa Routines
+
+When you enable the **TRIGGERcmd Smart Home** Alexa skill, you can also create Alexa Routines that run when your TRIGGERcmd command runs.  
+
+In the Alexa app, create a new Routine and select **Smart Home** under **When this happens** and you'll see a list of your TRIGGERcmd virtual switches.  
+
+This [YouTube video](https://www.youtube.com/watch?v=nrqj-OwDpGE) shows how it works.
+
 ## Alternative Alexa skills
 
 For most use-cases, the **TRIGGERcmd Smart Home** Alexa skill works best, but there are some that can only be accomplished using one of the conversational Alexa skills.  For example, the **Voice Reply** field only works with conversational skills.
