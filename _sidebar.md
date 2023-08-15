@@ -7,7 +7,7 @@
 * [Trigger a command](./TriggerCommands.md)
 * Voice Assistants
   * [Alexa](./Alexa.md)
-  * [Google Assistant](./GoogleAssistant.md)
+  * [Google Assistant](./SmartHomeGoogle.md)
 * Integrations
   * [IFTTT](./IFTTT.md)
   * [Zapier](./Zapier.md)

@@ -1,5 +1,11 @@
 # Conversational Google Assistant actions
 
+## DEPRECATED
+
+Unfortunately you can no longer use the TRIGGERcmd or Trigger Command Google Assistant actions because Google [deprecated](https://developers.google.com/assistant/ca-sunset#:~:text=Google%20is%20sunsetting%20Conversational%20Actions,occurring%20on%20June%2013%2C%202023) all conversational actions.  
+
+## Obsolete documentation
+
 The original conversational Google Assistant action is was called "TRIGGERcmd."  The newer conversational action called "TRIGGER command" was created as an alternative.  They work the same except for the activation words.  
 
 These are the basic sentence patterns to run a command via the three conversational actions:
