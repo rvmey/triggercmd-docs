@@ -29,6 +29,6 @@ The **Voice Reply** field is only for the "conversational" Alexa skills:
 
 The "[TRIGGERcmd Smart Home](https://www.amazon.com/gp/product/B07P1MMFRP)" skill/action does **not** use the **Voice Reply** field.  
 
-The **Voice Reply** field can include the {{trigger}}, {{computer}}, and [{{result}}](https://www.triggercmd.com/forum/topic/422/have-alexa-or-google-assistant-say-the-result-of-a-command) placeholders.  
+The **Voice Reply** field can include the {{trigger}}, {{computer}}, and [{{result}}](https://www.triggercmd.com/forum/topic/422/have-alexa-or-google-assistant-say-the-result-of-a-command) placeholders.  The {{result}} placeholder is where Alexa could say the result of your command via one of the "conversational" Alexa skills.
 
 For added security, your commands are **not** stored in the cloud.  They are only stored on your computer in a file called commands.json.  You can find it in your .TRIGGERcmdData folder in your user's home folder.  You might want to back it up in case your hard drive dies.  
