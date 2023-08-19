@@ -20,7 +20,7 @@ The **Trigger** field is basically a name for your command, but Alexa and Google
 
 The **Off Command** field is only available when **Allow Parameters** is true because it will only run if the parameter is "off".  
 
-Only set **Ground** to background if you've installed the background agent.  You can install background agent on Windows and Linux (including Raspberry Pi), but not Mac.  The background agent starts when your computer boots instead of starting when you login, so you could use it to reboot even if you're not logged in.  
+Only set **Ground** to background if you've installed the background agent.  You can install the background agent on Windows and Linux (including Raspberry Pi), but not Mac.  The background agent starts when your computer boots instead of starting when you login, so you could use it to reboot even if you're not logged in.  
 
 The **Voice Reply** field is only for the "conversational" Alexa skills:
 * [TRIGGERcmd](https://www.amazon.com/gp/product/B06XFN2TZN)
