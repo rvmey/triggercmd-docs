@@ -27,7 +27,7 @@ The **Voice Reply** field is only for the "conversational" Alexa skills:
 * [TRIGGER command](https://www.amazon.com/gp/product/B074TV61DK) 
 * [TC](https://www.amazon.com/gp/product/B0BMGG4SHS).  
 
-The "Smart Home" skill/action does **not** use the **Voice Reply** field.  
+The "[TRIGGERcmd Smart Home](https://www.amazon.com/gp/product/B07P1MMFRP)" skill/action does **not** use the **Voice Reply** field.  
 
 The **Voice Reply** field can include the {{trigger}}, {{computer}}, and [{{result}}](https://www.triggercmd.com/forum/topic/422/have-alexa-or-google-assistant-say-the-result-of-a-command) placeholders.  
 
