@@ -16,3 +16,6 @@
   * [Microsoft Power Automate](./MSPowerAutomate.md)
 * [tcmd cli tool](./tcmdCLI.md)
 * [Computer Sharing](./ComputerSharing.md)
+* API
+  * [Trigger Command](./API/TriggerCommand.md)
+  * [List Commands](./API/ListCommands.md)
