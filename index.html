@@ -12,33 +12,31 @@
 <body>
   <div id="app"></div>
   <script>
-    window.$docsify = {
-      el: "#app",
-      name: '<a id="logo-link" class="app-name-link" data-nosearch href="/"><div class="sidebar-logo">' +
-              '<img src="/images/logo.svg" height="64px">' +
-              '<span class="sidebar-logo-title">TRIGGERcmd</span>' +
-            '</div></a>' +
-            '<select id="lang-selector" name="lang" class="sidebar-version-select">' +
-              '<option value="">English</option>' +
-              '<option value="es">Español</option>' +
-            '</select>',
+    const lang = location.hash.match(/#\/(de-de|es|ru-ru|zh-cn)\//);
+    if (lang) {
+      document.documentElement.setAttribute('lang', lang[1]);
+    }
 
+    window.$docsify = {
+      alias: {
+        '/.*/_navbar.md': '/_navbar.md',
+      },
+      el: "#app",
+      name: 'TRIGGERcmd',
       repo: 'https://github.com/rvmey/triggercmd-docs',
       loadSidebar: true,
-      logo: '/images/logo.svg',
       fallbackLanguages: ['en'],
-      namespaces: [
-        {
-          id: "lang",
-          values: ["en", "es"],
-          optional: true,
-          selector: "#lang-selector",
-        }
-      ],
+      logo: '/images/logo.svg',
+      executeScript: true,
+      loadSidebar: true,
+      loadNavbar: true,
+      nameLink: {
+          '/es/': '#/es/',
+          '/': '#/'
+      },
     }
   </script>
   <!-- Docsify v4 -->
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
-  <script src="//unpkg.com/docsify-namespaced/dist/docsify-namespaced.min.js"></script>
 </body>
 </html>

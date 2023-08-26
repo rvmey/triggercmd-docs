@@ -1,4 +1,4 @@
-[![TRIGGERcmd.com](./images/logo.jpg)](https://www.triggercmd.com)
+[![TRIGGERcmd.com](/images/logo.jpg)](https://www.triggercmd.com)
 
 [TRIGGERcmd](https://www.triggercmd.com) es un servicio en la nube que le permite ejecutar comandos de forma segura y remota en sus computadoras.
 
