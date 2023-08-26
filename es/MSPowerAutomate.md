@@ -9,7 +9,7 @@
   * Computer - Computer name
   * Parameters - Optionally include text from the previous flow step in command parameters
 
-![TRIGGERcmd.com](./images/ms-power-automate.png)
+![TRIGGERcmd.com](./es/images/ms-power-automate.png)
 
 ## Detailed walkthrough
 
