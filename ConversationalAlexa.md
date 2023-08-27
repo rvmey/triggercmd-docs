@@ -2,7 +2,7 @@
 
 The original conversational Alexa skill is was called "TRIGGERcmd."  The newer conversational skills called "TRIGGER command" and "TC" were created as alternatives.  They work the same except for the activation words.  
 
-These are the basic sentence patterns to run a command via the three conversational actions:
+These are the basic sentence patterns to run a command via the three conversational skills:
 
 * Alexa, ask trigger C M D to run calculator.
 * Alexa, ask trigger command to run calculator.
