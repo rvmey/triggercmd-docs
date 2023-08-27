@@ -1,16 +1,16 @@
 # Pipedream
 
-Pipedream let's you create "Workflows" using various Internet services to automate things.
+Pipedream te permite crear "Workflows" utilizando varios servicios de Internet para automatizar cosas.
 
-You can create a workflow that runs a command on one of your computers.
+Puede crear un workflow que ejecute un comando en una de sus computadoras.
 
-Click [here](https://pipedream.com/apps/triggercmd) to connect your Pipedream account to TRIGGERcmd, or lookup TRIGGERcmd when you add a workflow step.
+Haga clic [aquí](https://pipedream.com/apps/triggercmd) para conectar su cuenta de Pipedream a TRIGGERcmd, o busque TRIGGERcmd cuando agregue un paso de workflow.
 
-![TRIGGERcmd in Pipedream](./images/pipe-dream-step.png)
+![TRIGGERcmd en Pipedream](./images/pipe-dream-step.png)
 
 Fill these field in your **trigger_command** step:
 * Command - Trigger name
 * Computer - Computer name
 * Parameters - Optionally include text from the previous workflow step in command parameters
 
-![TRIGGERcmd in Pipedream](./images/pipe-dream.png)
+![TRIGGERcmd en Pipedream](./images/pipe-dream.png)

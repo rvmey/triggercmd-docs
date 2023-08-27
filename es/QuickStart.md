@@ -1,23 +1,23 @@
-# Quick Start
+# Inicio Rápido
 
-* Create a TRIGGERcmd account [here](https://www.triggercmd.com/user/auth/signup).
+* Crea una cuenta TRIGGERcmd [aquí](https://www.triggercmd.com/user/auth/signup).
 
-* Install a TRIGGERcmd agent on your computer.  
+* Instale un agente TRIGGERcmd en su computadora. 
 
-  * [Windows Agent](https://agents.triggercmd.com/TRIGGERcmdAgentSetup.exe)
-  * [Mac Agent](https://agents.triggercmd.com/TRIGGERcmdAgent.dmg)
-  * [Linux Agent RPM for Redhat](https://agents.triggercmd.com/triggercmdagent-1.0.1.x86_64.rpm)
-  * [Linux Agent DEB for Ubuntu](https://agents.triggercmd.com/triggercmdagent_1.0.1_amd64.deb)
-  * [Linux Agent DEB for Raspberry Pi](https://agents.triggercmd.com/triggercmdagent_1.0.1_all.deb)
+  * [Agente Windows](https://agents.triggercmd.com/TRIGGERcmdAgentSetup.exe)
+  * [Agente Mac](https://agents.triggercmd.com/TRIGGERcmdAgent.dmg)
+  * [Agente Linux RPM para Redhat](https://agents.triggercmd.com/triggercmdagent-1.0.1.x86_64.rpm)
+  * [Agente Linux DEB para Ubuntu](https://agents.triggercmd.com/triggercmdagent_1.0.1_amd64.deb) ([instrucciones](https://www.triggercmd.com/forum/topic/11/ubuntu-linux-agent-instructions))
+  * [Agente Linux DEB para Raspberry Pi](https://agents.triggercmd.com/triggercmdagent_1.0.1_all.deb) ([instrucciones](https://www.triggercmd.com/forum/topic/12/raspberry-pi-setup))
 
-* When the agent installer prompts you for a token, copy it from the [Instructions page](https://www.triggercmd.com/user/computer/create).  
-* In your TRIGGERcmd account, click **View Triggers**, then **Trigger** to run one of the built-in commands.
+* Cuando el instalador del agente le solicite un token, cópielo desde la [página de instrucciones](https://www.triggercmd.com/user/computer/create).  
+* En su cuenta TRIGGERcmd, haga clic en **View Triggers** y luego en **Trigger** para ejecutar uno de los comandos integrados.
 
-Success!
+Éxito!
 
-Now you're ready to [add your own commmands](./es/Commands.md).
+Ahora estás listo para [agregar tus propios comandos](./es/Commands.md).
 
-Or check out one of these popular ways to run your commands: 
+O consulte una de estas formas populares de ejecutar sus comandos:
 
 * [Alexa](./es/SmartHomeAlexa.md)
 * [Google Assistant](./es/SmartHomeGoogle.md)
