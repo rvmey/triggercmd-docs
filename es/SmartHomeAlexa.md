@@ -1,40 +1,31 @@
-# Smart Home Alexa skill
+# Casa Inteligente TRIGGERcmd Alexa skill
 
-## Activate the **TRIGGERcmd Smart Home** Alexa skill
+## Activa la skill de Alexa **Casa Inteligente TRIGGERcmd**
 
-Click the appropriate Amazon link for your language below, then link your Amazon account to your TRIGGERcmd account.  
+Haga clic en el enlace de Amazon apropiado para su idioma y región a continuación, luego vincule su cuenta de Amazon a su cuenta TRIGGERcmd.
 
 * [United States (english)](https://www.amazon.com/dp/B07P1MMFRP)
-* [Brazil](https://www.amazon.com.br/VanderMey-Consulting-LLC-TRIGGERcmd-Smart/dp/B07P1MMFRP)  ([Portuguese video](https://www.youtube.com/watch?v=FTxIabp8CRg))
-* [Germany](https://www.amazon.de/VanderMey-Consulting-LLC-TRIGGERcmd-Smart/dp/B07P1MMFRP)
-* [Canada](https://www.amazon.ca/VanderMey-Consulting-LLC-TRIGGERcmd-Smart/dp/B07P1MMFRP)
-* [Australia](https://www.amazon.com.au/VanderMey-Consulting-LLC-TRIGGERcmd-Smart/dp/B07P1MMFRP)
-* [France](https://www.amazon.fr/VanderMey-Consulting-LLC-TRIGGERcmd-Smart/dp/B07P1MMFRP)
-* [India](https://www.amazon.in/VanderMey-Consulting-LLC-TRIGGERcmd-Smart/dp/B07P1MMFRP)
-* [Italy](https://www.amazon.it/VanderMey-Consulting-LLC-TRIGGERcmd-Smart/dp/B07P1MMFRP)
 * [Mexico](https://www.amazon.com.mx/VanderMey-Consulting-LLC-Inteligente-TRIGGERcmd/dp/B07P1MMFRP)
 * [Spain](https://www.amazon.es/VanderMey-Consulting-LLC-Inteligente-TRIGGERcmd/dp/B07P1MMFRP)
-* [England](https://www.amazon.co.uk/VanderMey-Consulting-LLC-TRIGGERcmd-Smart/dp/B07P1MMFRP)
-* [Japan](https://www.amazon.co.jp/VanderMey-Consulting-LLC-TRIGGERcmd-Smart/dp/B07P1MMFRP)
 
-You should now have a virtual switch called "calculator" so you can say, "Alexa, turn on calculator" to run calculator on your computer.
+Ahora deberías tener un interruptor virtual llamado "calculator" para que puedas decir "Alexa, enciende la calculator" para ejecutar la calculator en tu computadora.
 
-Click [here](./es/SmartHomeSwitches.md) for more detail about these virtual switches.
+Haga clic [aquí](./es/SmartHomeSwitches.md) para obtener más detalles sobre estos conmutadores virtuales.
 
-This [YouTube video](https://www.youtube.com/watch?v=9Jm_s9sTZXw) shows how it works.
+Este [vídeo de YouTube](https://www.youtube.com/watch?v=9Jm_s9sTZXw) muestra cómo funciona.
 
-To see a list of sentences that will run your commands via the TRIGGERcmd Smart Home skill, see the [Smart Home Voice Commands](https://www.triggercmd.com/user/command/shprintlist) page.
+Para ver una lista de oraciones que ejecutarán sus comandos a través de la skill Casa Inteligente TRIGGERcmd, consulte la página [Comandos de voz de Smart Home](https://www.triggercmd.com/user/command/shprintlist).
 
-## Trigger Alexa Routines
+## Provocar Alexa Rutinas
 
-When you enable the **TRIGGERcmd Smart Home** Alexa skill, you can also create Alexa Routines that run when your TRIGGERcmd command runs.  
+Cuando habilitas la skill de Alexa **TRIGGERcmd Smart Home**, también puedes crear rutinas de Alexa que se ejecutan cuando se ejecuta tu comando TRIGGERcmd.
 
-In the Alexa app, create a new Routine and select **Smart Home** under **When this happens** and you'll see a list of your TRIGGERcmd virtual switches.  
+En la aplicación Alexa, cree una nueva rutina y seleccione **Casa inteligente** en **Cuando esto suceda** y verá una lista de sus interruptores virtuales TRIGGERcmd.
 
-This [YouTube video](https://www.youtube.com/watch?v=nrqj-OwDpGE) shows how it works.
+Este [vídeo de YouTube](https://www.youtube.com/watch?v=nrqj-OwDpGE) muestra cómo funciona.
 
-## Alternative Alexa skills
+## Habilidades alternativas de Alexa
 
-For most use-cases, the **TRIGGERcmd Smart Home** Alexa skill works best, but there are some that can only be accomplished using one of the conversational Alexa skills.  For example, the **Voice Reply** field only works with conversational skills.
+Para la mayoría de los casos de uso, la skill de Alexa **Casa Inteligente TRIGGERcmd** funciona mejor, pero hay algunos que solo se pueden lograr usando una de las skills conversacionales de Alexa. Por ejemplo, el campo **Respuesta de voz** solo funciona con skills de conversación.
 
-The conversational skills do not create a virtual switch for each command like the Smart Home skill does, so Alexa doesn't have a list of what you might say ahead of time, which make it less likely Alexa will successfully match your spoken words to your commands.  
+Las skills conversacionales no crean un interruptor virtual para cada comando como lo hace la skill Smart Home, por lo que Alexa no tiene una lista de lo que podrías decir con anticipación, lo que hace que sea menos probable que Alexa haga coincidir con éxito tus palabras habladas con tu comandos.

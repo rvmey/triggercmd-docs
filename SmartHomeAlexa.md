@@ -1,4 +1,4 @@
-# Smart Home Alexa skill
+# TRIGGERcmd Smart Home Alexa skill
 
 ## Activate the **TRIGGERcmd Smart Home** Alexa skill
 
