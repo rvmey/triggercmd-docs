@@ -14,7 +14,7 @@ To run a command on your default computer with parameters, say:
 
 This would run **notepad note** assuming your default computer runs Windows, it still has the built-in notepad command, and you've updated it to enable parameters.  Notepad will open and ask you if you want to create a new file called note.txt.
 
-![TRIGGERcmd.com](./es/images/notepad_note.png)
+![TRIGGERcmd.com](./images/notepad_note.png)
 
 To run a command on your non-default computer with **laptop** in the computer's voice field, say:
 

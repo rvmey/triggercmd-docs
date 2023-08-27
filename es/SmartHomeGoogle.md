@@ -5,7 +5,7 @@
 Click [here](https://assistant.google.com/services/a/uid/0000002be4521c02) for a direct link to the TRIGGERcmd Smart Home page, but you can't activate the action from there.  
 
 Instead, you have to find it in the Home app under Assistant settings, Home control.  
-![TRIGGERcmd.com](./es/images/search-for-triggercmd-smart-home.png)
+![TRIGGERcmd.com](./images/search-for-triggercmd-smart-home.png)
 
 Click [here](./es/SmartHomeSwitches.md) for more detail about these virtual switches.
 
