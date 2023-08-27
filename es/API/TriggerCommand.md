@@ -1,8 +1,8 @@
-# Trigger Command
+# Comando de Disparo
 
-This API will trigger a command on one of your computers.
+Esta API activará un comando en una de sus computadoras.
 
-In this example, assuming your Notepad command has parameters enabled, it will launch Notepad with parameter MyNote on your "laptop" computer.
+En este ejemplo, suponiendo que su comando Bloc de notas tenga parámetros habilitados, iniciará el Bloc de notas con el parámetro MyNote en su computadora "laptop".
 
 ```
 import requests
@@ -21,4 +21,4 @@ headers = {
 r = requests.post(url, headers=headers, json=json)
 ```
 
-For authentication, use a token from the [Instructions](https://www.triggercmd.com/user/computer/create) page.
+Para la autenticación, use un token de la página de [Instrucciones](https://www.triggercmd.com/user/computer/create).

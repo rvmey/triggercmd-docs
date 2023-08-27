@@ -1,5 +1,5 @@
 # Alexa
 
-The Alexa skill called "[TRIGGERcmd Smart Home](./es/SmartHomeAlexa.md)" works best for most use cases.  
+La habilidad de Alexa llamada "[TRIGGERcmd Smart Home](./es/SmartHomeAlexa.md)" funciona mejor para la mayoría de los casos de uso.
 
-You should only use one of the "[conversational](./es/ConversationalAlexa.md)" Alexa skills if you have a special case that requires it.
+Sólo debes utilizar una de las skills "[conversacionales](./es/ConversationalAlexa.md)" de Alexa si tienes un caso especial que lo requiera.

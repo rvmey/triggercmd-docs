@@ -1,6 +1,6 @@
-# List Commands
+# Comandos de Lista
 
-This API will list your commands.
+Esta API enumerará sus comandos.
 
 ```
 import requests
@@ -14,4 +14,4 @@ headers = {
 r = requests.post(url, headers=headers, json=json)
 ```
 
-For authentication, use a token from the [Instructions](https://www.triggercmd.com/user/computer/create) page.
+Para la autenticación, use un token de la página de [Instrucciones](https://www.triggercmd.com/user/computer/create).
