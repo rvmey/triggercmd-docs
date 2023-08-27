@@ -2,18 +2,18 @@
 
 ![make](https://triggercmdagents.s3.amazonaws.com/Pics/Make-Formerly-Integromat-Primary-Version.jpg)
 
-Similar to IFTTT or Zapier, Make let's you connect TRIGGERcmd with other Internet services.  It's very flexible.  
+Similar a IFTTT o Zapier, Make te permite conectar TRIGGERcmd con otros servicios de Internet. Es muy flexible.
 
-Make is a visual platform that lets you design, build, and automate anything–from simple tasks to complex workflows—in minutes.  With Make, you can connect TRIGGERcmd with any of your favorite apps. It’s fast and easy to use, visually intuitive, and requires zero coding expertise
+Make es una plataforma visual que le permite diseñar, crear y automatizar cualquier cosa, desde tareas simples hasta flujos de trabajo complejos, en minutos. Con Make, puedes conectar TRIGGERcmd con cualquiera de tus aplicaciones favoritas. Es rápido y fácil de usar, visualmente intuitivo y no requiere experiencia en codificación.
 
-Connect TRIGGERcmd to Make **[here](https://www.make.com/en/integrations/triggercmd?utm_source=triggercmd&utm_medium=partner&utm_campaign=triggercmd-partner-program)**.
+Conecte TRIGGERcmd para Make **[aquí](https://www.make.com/en/integrations/triggercmd?utm_source=triggercmd&utm_medium=partner&utm_campaign=triggercmd-partner-program)**.
 
-Here's a [Youtube video](https://youtu.be/KLCFZpLEnwU) showing how it works.
+Aquí hay un [vídeo de Youtube](https://youtu.be/KLCFZpLEnwU) que muestra cómo funciona.
 
-**Key Features:**
+**Características:**
 
-*	Drag and drop feature to connect thousands of integrated apps
-*	Schedule your workflow to execute whenever you need—even if you’re not currently using TRIGGERcmd.
-*	Design workflows with as many apps and steps as you need. Add filters and conditional logic for more complex processes. 
+*	Función de arrastrar y soltar para conectar miles de aplicaciones integradas.
+*	Programe su flujo de trabajo para que se ejecute cuando lo necesite, incluso si no está utilizando TRIGGERcmd actualmente.
+*	Diseñe flujos de trabajo con tantas aplicaciones y pasos como necesite. Agregue filtros y lógica condicional para procesos más complejos.
 
 ![make flow](https://triggercmdagents.s3.amazonaws.com/Pics/make_flow.png)
