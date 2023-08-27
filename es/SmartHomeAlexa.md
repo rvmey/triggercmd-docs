@@ -19,7 +19,7 @@ Click the appropriate Amazon link for your language below, then link your Amazon
 
 You should now have a virtual switch called "calculator" so you can say, "Alexa, turn on calculator" to run calculator on your computer.
 
-Click [here](./es/SmartHomeSwitches.md) for more detail about these virtual switches.
+Click [here](./SmartHomeSwitches.md) for more detail about these virtual switches.
 
 This [YouTube video](https://www.youtube.com/watch?v=9Jm_s9sTZXw) shows how it works.
 

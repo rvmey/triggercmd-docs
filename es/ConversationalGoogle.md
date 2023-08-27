@@ -19,7 +19,7 @@ To run a command on your default computer with parameters, say:
 
 This would run **notepad note** assuming your default computer runs Windows, it still has the built-in notepad command, and you've updated it to enable parameters.  Notepad will open and ask you if you want to create a new file called note.txt.
 
-![TRIGGERcmd.com](./es/images/notepad_note.png)
+![TRIGGERcmd.com](./images/notepad_note.png)
 
 To run a command on your non-default computer with **laptop** in the computer's voice field, say:
 
@@ -35,4 +35,4 @@ You can use these Amazon pages to link the conversational actions:
 
 ## Alternative Google Assistant actions
 
-Most people should use the [TRIGGERcmd Smart Home](./es/SmartHomeHey Google.md) Google Assistant action instead of a conversational skill because Hey Google more consistently matches your spoken words to your commands when you use the TRIGGERcmd Smart Home skill.  
+Most people should use the [TRIGGERcmd Smart Home](./SmartHomeHey Google.md) Google Assistant action instead of a conversational skill because Hey Google more consistently matches your spoken words to your commands when you use the TRIGGERcmd Smart Home skill.  
