@@ -1,34 +1,36 @@
-## Creating commands
+## Creando Comandos
 
-The easiest way to add or edit commands is with the GUI Command Editor shown below.
+La forma más sencilla de agregar o editar comandos es con el Editor de comandos GUI que se muestra a continuación.
 
 ![GUI Editor](./images/gui-editor.png)
 
-| Field | Description |
+| Campo | Descripción |
 | --- | ----------- |
-| Trigger | The name of your trigger |
-| Command | The command that will run when triggered |
-| Off Command | The command that will run when triggered with "off" as the parameter |
-| Ground | foreground or background agent |
-| Voice | What you'll say to Alexa or Google Assistant |
-| Voice Reply | What Alexa or Google Assistant will say back to you |
-| Allow Parameters | Whether to allow parameters |
+| Trigger | El nombre de tu Trigger |
+| Command | El comando que se ejecutará cuando se active |
+| Off Command | El comando que se ejecutará cuando se active con "off" como parámetro |
+| Ground | agente de primer plano o de fondo |
+| Voice | Lo que le dirás a Alexa o al Asistente de Google |
+| Respuesta de voz | Lo que Alexa o el Asistente de Google te responderán |
+| Permitir parámetros | Ya sea para permitir parámetros |
 
-## Details
+## Detalles
 
-The **Trigger** field is basically a name for your command, but Alexa and Google Assistant don't use that name.  They use the **Voice** field to find your trigger.  
+El campo **Trigger** es básicamente un nombre para su comando, pero Alexa y el Asistente de Google no usan ese nombre. Usan el campo **Voice** para encontrar el factor desencadenante.
 
-The **Off Command** field is only available when **Allow Parameters** is true because it will only run if the parameter is "off".  
+El campo **Off Command** solo está disponible cuando **Allow Parameters** es verdadero porque solo se ejecutará si el parámetro está "off".
 
-Only set **Ground** to background if you've installed the background agent.  You can install the background agent on Windows and Linux (including Raspberry Pi), but not Mac.  The background agent starts when your computer boots instead of starting when you login, so you could use it to reboot even if you're not logged in.  
+Solo configura **Ground** en segundo plano si has instalado el agente en segundo plano. Puede instalar el agente en segundo plano en Windows y Linux (incluida Raspberry Pi), pero no en Mac. El agente en segundo plano se inicia cuando su computadora arranca en lugar de iniciarse cuando inicia sesión, por lo que puede usarlo para reiniciar incluso si no ha iniciado sesión.
 
-The **Voice Reply** field is only for the "conversational" Alexa skills:
+El campo **Voice Reply** es solo para las skills "conversacionales" de Alexa:
 * [TRIGGERcmd](https://www.amazon.com/gp/product/B06XFN2TZN)
 * [TRIGGER command](https://www.amazon.com/gp/product/B074TV61DK) 
 * [TC](https://www.amazon.com/gp/product/B0BMGG4SHS).  
 
 The "[TRIGGERcmd Smart Home](https://www.amazon.com/gp/product/B07P1MMFRP)" skill/action does **not** use the **Voice Reply** field.  
 
-The **Voice Reply** field can include the {{trigger}}, {{computer}}, and [{{result}}](https://www.triggercmd.com/forum/topic/422/have-alexa-or-google-assistant-say-the-result-of-a-command) placeholders.  The {{result}} placeholder is where Alexa could say the result of your command via one of the "conversational" Alexa skills.
+La skill/acción de hogar inteligente triggercmd **no** utiliza el campo **Respuesta de voz**.
 
-For added security, your commands are **not** stored in the cloud.  They are only stored on your computer in a file called commands.json.  You can find it in your .TRIGGERcmdData folder in your user's home folder.  You might want to back it up in case your hard drive dies.  
+El campo **Respuesta de voz** puede incluir los marcadores de posición {{trigger}}, {{computer}} y {{result}}. El marcador de posición {{result}} es donde Alexa podría decir el resultado de tu comando a través de una de las skills "conversacionales" de Alexa.
+
+Para mayor seguridad, sus comandos **no** se almacenan en la nube. Solo se almacenan en su computadora en un archivo llamado commands.json. Puede encontrarlo en su carpeta .TRIGGERcmdData en la carpeta de inicio de su usuario. Es posible que desee hacer una copia de seguridad en caso de que su disco duro falle.
