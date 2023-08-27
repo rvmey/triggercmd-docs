@@ -1,17 +1,17 @@
-# Computers
+# Ordenadores
 
-## Add a computer
+## Agregar una computadora
 
-To add your computer to your TRIGGERcmd account, you'll need to install a TRIGGERcmd agent on it.  
+Para agregar su computadora a su cuenta TRIGGERcmd, deberá instalar un agente TRIGGERcmd en ella.
 
-The agent installer will ask your for a **token** to log it in.  
+El instalador del agente le pedirá un **token** para iniciar sesión.
 
-Copy the token from the [instructions page](https://www.triggercmd.com/user/computer/create) and paste it into the token prompt.  
+Copie el token de la página de [instrucciones](https://www.triggercmd.com/user/computer/create) y péguelo en el mensaje del token.
 
-## Agent download links
+## Enlaces de descarga del agente
 
-  * [Windows Agent](https://agents.triggercmd.com/TRIGGERcmdAgentSetup.exe)
-  * [Mac Agent](https://agents.triggercmd.com/TRIGGERcmdAgent.dmg)
-  * [Linux Agent RPM for Redhat](https://agents.triggercmd.com/triggercmdagent-1.0.1.x86_64.rpm)
-  * [Linux Agent DEB for Ubuntu](https://agents.triggercmd.com/triggercmdagent_1.0.1_amd64.deb) ([instructions](https://www.triggercmd.com/forum/topic/11/ubuntu-linux-agent-instructions))
-  * [Linux Agent DEB for Raspberry Pi](https://agents.triggercmd.com/triggercmdagent_1.0.1_all.deb) ([instructions](https://www.triggercmd.com/forum/topic/12/raspberry-pi-setup))
+  * [Agente Windows](https://agents.triggercmd.com/TRIGGERcmdAgentSetup.exe)
+  * [Agente Mac](https://agents.triggercmd.com/TRIGGERcmdAgent.dmg)
+  * [Agente Linux RPM para Redhat](https://agents.triggercmd.com/triggercmdagent-1.0.1.x86_64.rpm)
+  * [Agente Linux DEB para Ubuntu](https://agents.triggercmd.com/triggercmdagent_1.0.1_amd64.deb) ([instrucciones](https://www.triggercmd.com/forum/topic/11/ubuntu-linux-agent-instructions))
+  * [Agente Linux DEB para Raspberry Pi](https://agents.triggercmd.com/triggercmdagent_1.0.1_all.deb) ([instrucciones](https://www.triggercmd.com/forum/topic/12/raspberry-pi-setup))
