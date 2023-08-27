@@ -1,19 +1,19 @@
-# Computer Sharing
+# Compartir Computadora
 
-If you share one of your TRIGGERcmd computers with another TRIGGERcmd user, that user can run your commands on that computer.  
+Si comparte una de sus computadoras TRIGGERcmd con otro usuario de TRIGGERcmd, ese usuario puede ejecutar sus comandos en esa computadora.
 
-To share one of your computers, click the Share button.
+Para compartir una de sus computadoras, haga clic en el botón Share.
 
-![share button](./images/share.png)
+![botón Share](./images/share.png)
 
-Then enter the other user's email address.  
+Luego ingrese la dirección de correo electrónico del otro usuario.
 
-![Share a computer](./images/share-computer.png)
+![compartir una computadora](./images/share-computer.png)
 
-The user will get an email and will have to accept the shared computer.
+El usuario recibirá un correo electrónico y deberá aceptar el ordenador compartido.
 
-If someone shares a computer with you, you'll see the shared computer on the [Other User's Computers](https://www.triggercmd.com/user/computer/otherlist) page.  
+Si alguien comparte una computadora con usted, verá la computadora compartida en la página [Computadoras de otros usuarios](https://www.triggercmd.com/user/computer/otherlist).
 
-To remove a computer that someone has shared with you, delete it from the [Other User's Computers](https://www.triggercmd.com/user/computer/otherlist) page.  
+Para eliminar una computadora que alguien ha compartido con usted, elimínela de la página [Computadoras de otros usuarios](https://www.triggercmd.com/user/computer/otherlist).
 
-To stop sharing one of your computers, click the Share button again and click delete the other user from the list of people you've shared it with.  
+Para dejar de compartir una de sus computadoras, haga clic en el botón Share nuevamente y haga clic en eliminar al otro usuario de la lista de personas con las que la compartió.
