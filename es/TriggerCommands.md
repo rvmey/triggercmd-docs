@@ -6,5 +6,5 @@ See [this page](https://www.triggercmd.com/forum/topic/30/list-of-ways-to-trigge
 
 If you want to use your voice, start with these:
 
-* [TRIGGERcmd Smart Home Alexa skill](./SmartHomeAlexa.md)
-* [TRIGGERcmd Smart Home Google Assistant action](./SmartHomeGoogle.md)
+* [TRIGGERcmd Smart Home Alexa skill](./es/SmartHomeAlexa.md)
+* [TRIGGERcmd Smart Home Google Assistant action](./es/SmartHomeGoogle.md)

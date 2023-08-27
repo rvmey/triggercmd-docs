@@ -1,21 +1,21 @@
 <!-- docs/_sidebar.md -->
 
-* [Inicio rápido](./QuickStart.md)
+* [Inicio rápido](./es/QuickStart.md)
 
-* [Ordenadores](./Computers.md)
-* [Comandos](./Commands.md)
-* [Activar un comando](./TriggerCommands.md)
+* [Ordenadores](./es/Computers.md)
+* [Comandos](./es/Commands.md)
+* [Activar un comando](./es/TriggerCommands.md)
 * Asistentes de voz
-  * [Alexa](./Alexa.md)
-  * [Google Asistente](./SmartHomeGoogle.md)
+  * [Alexa](./es/Alexa.md)
+  * [Google Asistente](./es/SmartHomeGoogle.md)
 * Integraciones
-  * [IFTTT](./IFTTT.md)
-  * [Zapier](./Zapier.md)
-  * [SmartThings](./SmartThings.md)
-  * [Make](./Make.md)
-  * [Microsoft Power Automate](./MSPowerAutomate.md)
-* [tcmd cli herramienta](./tcmdCLI.md)
-* [Compartir computadora](./ComputerSharing.md)
+  * [IFTTT](./es/IFTTT.md)
+  * [Zapier](./es/Zapier.md)
+  * [SmartThings](./es/SmartThings.md)
+  * [Make](./es/Make.md)
+  * [Microsoft Power Automate](./es/MSPowerAutomate.md)
+* [tcmd cli herramienta](./es/tcmdCLI.md)
+* [Compartir computadora](./es/ComputerSharing.md)
 * API
-  * [Comando de disparo](./API/TriggerCommand.md)
-  * [Comandos de lista](./API/ListCommands.md)
+  * [Comando de disparo](./es/API/TriggerCommand.md)
+  * [Comandos de lista](./es/API/ListCommands.md)
