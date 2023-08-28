@@ -1,6 +1,6 @@
-# Interruptores Virtuales para el Hogar Inteligente
+# Virtual Smart Home Switches
 
-## Integraciones que crean conmutadores virtuales
+## Integrations that create virtual switches
 
 * TRIGGERcmd Smart Home Alexa skill
 * TRIGGERcmd Smart Home Google Assistant action
