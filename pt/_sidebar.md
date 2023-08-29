@@ -1,6 +1,6 @@
 <!-- docs/_sidebar.md -->
 
-* [Quick Start](./QuickStart.md)
+* [Quick Start](QuickStart.md)
 
 * [Computers](./Computers.md)
 * [Commands](./Commands.md)
