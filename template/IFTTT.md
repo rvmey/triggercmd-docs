@@ -4,4 +4,4 @@ To use the TRIGGERcmd IFTTT integration, click [here](https://ifttt.com/trigger_
 
 Here's a Youtube [video showing how to use it](https://youtu.be/NO6OASpij1c).
 
-![TRIGGERcmd on IFTTT](./images/ifttt-integration.png)
+![TRIGGERcmd on IFTTT](pt/images/ifttt-integration.png)

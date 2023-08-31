@@ -15,12 +15,12 @@
 
 Success!
 
-Now you're ready to [add your own commmands](./Commands.md).
+Now you're ready to [add your own commmands](pt/Commands.md).
 
 Or check out one of these popular ways to run your commands: 
 
-* [Alexa](./SmartHomeAlexa.md)
-* [Google Assistant](./SmartHomeGoogle.md)
-* [IFTTT](./IFTTT.md)
-* [Zapier](./Zapier.md)
-* [SmartThings](./SmartThings.md)
+* [Alexa](pt/SmartHomeAlexa.md)
+* [Google Assistant](pt/SmartHomeGoogle.md)
+* [IFTTT](pt/IFTTT.md)
+* [Zapier](pt/Zapier.md)
+* [SmartThings](pt/SmartThings.md)
