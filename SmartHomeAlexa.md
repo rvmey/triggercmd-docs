@@ -2,7 +2,7 @@
 
 ## Activate the **TRIGGERcmd Smart Home** Alexa skill
 
-Click the appropriate Amazon link for your language below, then link your Amazon account to your TRIGGERcmd account.  
+Click the appropriate Amazon link for your country below, then link your Amazon account to your TRIGGERcmd account.  
 
 * [United States (english)](https://www.amazon.com/dp/B07P1MMFRP)
 * [Brazil](https://www.amazon.com.br/VanderMey-Consulting-LLC-TRIGGERcmd-Smart/dp/B07P1MMFRP)  ([Portuguese video](https://www.youtube.com/watch?v=FTxIabp8CRg))
