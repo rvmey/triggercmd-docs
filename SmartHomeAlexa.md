@@ -37,4 +37,4 @@ This [YouTube video](https://www.youtube.com/watch?v=nrqj-OwDpGE) shows how it w
 
 For most use-cases, the **TRIGGERcmd Smart Home** Alexa skill works best, but there are some that can only be accomplished using one of the conversational Alexa skills.  For example, the **Voice Reply** field only works with conversational skills.
 
-The conversational skills do not create a virtual switch for each command like the Smart Home skill does, so Alexa doesn't have a list of what you might say ahead of time, which make it less likely Alexa will successfully match your spoken words to your commands.  
+The conversational skills do not create a virtual switch for each command like the Smart Home skill does, so Alexa doesn't have a list of what you might say ahead of time, which makes it less likely your spoken words will match your commands.  
