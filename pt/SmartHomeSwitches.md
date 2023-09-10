@@ -2,8 +2,8 @@
 
 ## Integrações que criam interruptores virtuais
 
-* Habilidade Alexa TRIGGERcmd Smart Home
-* Ação Google Assistant TRIGGERcmd Smart Home
+* Skill Alexa TRIGGERcmd Smart Home
+* Action Google Assistant TRIGGERcmd Smart Home
 * Integração TRIGGERcmd Samsung SmartThings
 
 ## Criação e nomeação dos interruptores
