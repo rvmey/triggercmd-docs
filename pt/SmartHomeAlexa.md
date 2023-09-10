@@ -23,18 +23,18 @@ Clique [aqui](pt/SmartHomeSwitches.md) para mais detalhes sobre esses interrupto
 
 Este [vídeo do YouTube](https://www.youtube.com/watch?v=9Jm_s9sTZXw) mostra como funciona.
 
-Para ver uma lista de frases que executarão seus comandos via a habilidade TRIGGERcmd Smart Home da Alexa, consulte a página de  [Comandos de Voz para Casa Inteligente](https://www.triggercmd.com/user/command/shprintlist).
+Para ver uma lista de frases que executarão seus comandos via a skill TRIGGERcmd Smart Home da Alexa, consulte a página de  [Comandos de Voz para Casa Inteligente](https://www.triggercmd.com/user/command/shprintlist).
 
 ## Acionar Rotinas da Alexa
 
-Quando você ativa a habilidade Alexa **TRIGGERcmd Casa Inteligente** você também pode criar Rotinas da Alexa que são executadas quando o seu comando TRIGGERcmd é acionado. 
+Quando você ativa a skill Alexa **TRIGGERcmd Casa Inteligente** você também pode criar Rotinas da Alexa que são executadas quando o seu comando TRIGGERcmd é acionado. 
 
 No aplicativo Alexa, crie uma nova Rotina e selecione **Casa Inteligente** em **Quando isso acontecer** e você verá uma lista dos seus interruptores virtuais TRIGGERcmd.
 
 Este [vídeo do YouTube](https://www.youtube.com/watch?v=nrqj-OwDpGE) mostra como funciona.
 
-## Habilidades Alexa Alternativas
+## Skills Alexa Alternativas
 
-Para a maioria dos casos de uso, a habilidade Alexa **TRIGGERcmd Casa Inteligente** funciona melhor, mas existem alguns casos que só podem ser realizados usando uma das habilidades conversacionais da Alexa. Por exemplo, o campo **Resposta por Voz** só funciona com habilidades conversacionais.
+Para a maioria dos casos de uso, a skill Alexa **TRIGGERcmd Casa Inteligente** funciona melhor, mas existem alguns casos que só podem ser realizados usando uma das skills conversacionais da Alexa. Por exemplo, o campo **Resposta por Voz** só funciona com skills conversacionais.
 
-As habilidades conversacionais não criam um interruptor virtual para cada comando, como a habilidade Casa Inteligente faz, então a Alexa não tem uma lista do que você pode dizer com antecedência, o que torna menos provável que suas palavras faladas coincidam com seus comandos.
+As skills conversacionais não criam um interruptor virtual para cada comando, como a skill Casa Inteligente faz, então a Alexa não tem uma lista do que você pode dizer com antecedência, o que torna menos provável que suas palavras faladas coincidam com seus comandos.

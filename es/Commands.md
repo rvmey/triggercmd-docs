@@ -27,7 +27,7 @@ El campo **Voice Reply** es solo para las skills "conversacionales" de Alexa:
 * [TRIGGER command](https://www.amazon.com/gp/product/B074TV61DK) 
 * [TC](https://www.amazon.com/gp/product/B0BMGG4SHS).  
 
-The "[TRIGGERcmd Smart Home](https://www.amazon.com/gp/product/B07P1MMFRP)" skill/action does **not** use the **Voice Reply** field.  
+La skill/action "[TRIGGERcmd Smart Home](https://www.amazon.com/gp/product/B07P1MMFRP)" **no** utiliza el campo **Respuesta de voz**.
 
 La skill/acción de hogar inteligente triggercmd **no** utiliza el campo **Respuesta de voz**.
 
