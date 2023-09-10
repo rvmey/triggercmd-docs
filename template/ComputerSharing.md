@@ -4,11 +4,11 @@ If you share one of your TRIGGERcmd computers with another TRIGGERcmd user, that
 
 To share one of your computers, click the Share button.
 
-![share button](./images/share.png)
+![share button](images/share.png)
 
 Then enter the other user's email address.  
 
-![Share a computer](./images/share-computer.png)
+![Share a computer](images/share-computer.png)
 
 The user will get an email and will have to accept the shared computer.
 

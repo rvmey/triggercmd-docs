@@ -2,7 +2,7 @@
 
 The easiest way to add or edit commands is with the GUI Command Editor shown below.
 
-![GUI Editor](./images/gui-editor.png)
+![GUI Editor](images/gui-editor.png)
 
 | Field | Description |
 | --- | ----------- |
