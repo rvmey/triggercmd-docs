@@ -3,10 +3,10 @@
 ## Integraciones que crean conmutadores virtuales
 
 * TRIGGERcmd Smart Home Alexa skill
-* TRIGGERcmd Smart Home Google Assistant action
-* TRIGGERcmd Samsung SmartThings integration
+* TRIGGERcmd Smart Home Google Assistant acción
+* Integración TRIGGERcmd Samsung SmartThings
 
-## Switch creation and naming
+## Cambiar creación y denominación
 
 Both commands and computers have a **voice** field that determines what your virtual switches will be named.  If those voice fields are empty, a virtual switch may not be created.  
 
