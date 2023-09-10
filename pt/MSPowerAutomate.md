@@ -1,16 +1,16 @@
 # Microsoft Power Automate
 
-## Build a Microsoft Power Automate flow
+## Crie um fluxo no Microsoft Power Automate
 
-* When you create a flow, click New step, and select the **[TRIGGERcmd connector](https://powerautomate.microsoft.com/en-US/connectors/details/shared_triggercmd/triggercmd/)**
+* Ao criar um fluxo, clique em Nova etapa e selecione o **[conector TRIGGERcmd](https://powerautomate.microsoft.com/en-US/connectors/details/shared_triggercmd/triggercmd/)**.
 
-* Fill these fields under Run command:
-  * Command - Trigger name
-  * Computer - Computer name
-  * Parameters - Optionally include text from the previous flow step in command parameters
+* Preencha estes campos em Executar comando:
+  * Comando - Nome do trigger
+  * Computador - Nome do computador
+  * Parâmetros - Opcionalmente inclua texto da etapa anterior do fluxo nos parâmetros do comando
 
 ![TRIGGERcmd.com](images/ms-power-automate.png)
 
-## Detailed walkthrough
+## Passo a passo detalhado
 
-[![TRIGGERcmd Microsoft Power Automate flow](https://img.youtube.com/vi/r_FzWasWA4M/0.jpg)](https://www.youtube.com/watch?v=r_FzWasWA4M)
+[![Fluxo TRIGGERcmd do Microsoft Power Automate](https://img.youtube.com/vi/r_FzWasWA4M/0.jpg)](https://www.youtube.com/watch?v=r_FzWasWA4M)

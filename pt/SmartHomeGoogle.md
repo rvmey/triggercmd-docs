@@ -1,14 +1,15 @@
-# TRIGGERcmd Smart Home Google Assistant action
+# Ação do Google Assistant para Casa Inteligente
 
-## Activate the **TRIGGERcmd Smart Home** Google Assistant action
+## Ative a habilidade de **Casa Inteligente TRIGGERcmd** no Google Assistant.
 
-Click [here](https://assistant.google.com/services/a/uid/0000002be4521c02) for a direct link to the TRIGGERcmd Smart Home page, but you can't activate the action from there.  
+Clique [aqui](https://assistant.google.com/services/a/uid/0000002be4521c02) para um link direto para a página da Casa Inteligente TRIGGERcmd, mas você não pode ativar a ação a partir dali.
 
-Instead, you have to find it in the Home app under Assistant settings, Home control.  
+Em vez disso, você deve encontrá-la no aplicativo Home nas configurações do Assistente, no controle da Casa.  
 ![TRIGGERcmd.com](images/search-for-triggercmd-smart-home.png)
 
-Click [here](pt/SmartHomeSwitches.md) for more detail about these virtual switches.
+Clique [aqui](pt/SmartHomeSwitches.md) para mais detalhes sobre esses interruptores virtuais.
 
-This [YouTube video](https://youtu.be/jeiV5aySmTw) shows how it works.
 
-To see a list of sentences that will run your commands via the TRIGGERcmd Smart Home action, see the [Smart Home Voice Commands](https://www.triggercmd.com/user/command/shprintlist?ai=Hey%20Google) page.
+Este [vídeo do YouTub](https://youtu.be/jeiV5aySmTw) mostra como funciona.
+
+Para ver uma lista de frases que executarão seus comandos via a ação de Casa Inteligente TRIGGERcmd, veja a página de [Comandos de Voz para Casa Inteligente.](https://www.triggercmd.com/user/command/shprintlist?ai=Hey%20Google)

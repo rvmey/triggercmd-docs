@@ -1,21 +1,21 @@
-# Command Line Interface tool
+# Ferramenta de Linha de Comando
 
-## Download tcmd
+## Baixar tcmd
 
-* [Windows 64bit (most common)](https://triggercmdagents.s3.amazonaws.com/tcmd_cli/tcmd-windows-amd64.exe)
-* [Windows 32bit](https://triggercmdagents.s3.amazonaws.com/tcmd_cli/tcmd-windows-386.exe)
-* [Mac 64bit](https://triggercmdagents.s3.amazonaws.com/tcmd_cli/tcmd-darwin-amd64)
-* [Linux 32bit](https://triggercmdagents.s3.amazonaws.com/tcmd_cli/tcmd-linux-386)
-* [Linux 64bit](https://triggercmdagents.s3.amazonaws.com/tcmd_cli/tcmd-linux-amd64)
-* [Linux arm (ie: Raspberry Pi or Orange Pi)](https://triggercmdagents.s3.amazonaws.com/tcmd_cli/tcmd-linux-arm)
+* [Windows 64 bits (mais comum)](https://triggercmdagents.s3.amazonaws.com/tcmd_cli/tcmd-windows-amd64.exe)
+* [Windows 32 bits](https://triggercmdagents.s3.amazonaws.com/tcmd_cli/tcmd-windows-386.exe)
+* [Mac 64 bits](https://triggercmdagents.s3.amazonaws.com/tcmd_cli/tcmd-darwin-amd64)
+* [Linux 32 bits](https://triggercmdagents.s3.amazonaws.com/tcmd_cli/tcmd-linux-386)
+* [Linux 64 bits](https://triggercmdagents.s3.amazonaws.com/tcmd_cli/tcmd-linux-amd64)
+* [Linux arm (ou seja, Raspberry Pi ou Orange Pi)](https://triggercmdagents.s3.amazonaws.com/tcmd_cli/tcmd-linux-arm)
 
-After you download it, rename it to tcmd, or tcmd.exe on Windows.  
+Após baixá-lo, renomeie-o para tcmd, ou tcmd.exe no Windows.
 
-Move it to **/usr/local/bin** or **C:\Windows**, or some other folder listed in your PATH environment variable if you want to be able to run it from any folder.  
+Mova-o para **/usr/local/bin** no Linux ou **C:\Windows** no Windows, ou alguma outra pasta listada na variável de ambiente PATH se você quiser poder executá-lo de qualquer pasta.
 
-## tcmd usage
+## Uso do tcmd
 
-Run this command to get help text:
+Execute este comando para obter o texto de ajuda:
 ```
 tcmd -h
 ```
@@ -39,10 +39,10 @@ NAME:
     --version, -v               print the version
 ```
 
-## Source code
+## Código-fonte
 
-You can view the Go source code for the tcmd tool on Github [here](https://github.com/rvmey/triggercmdGOclient).  
+Você pode visualizar o código-fonte em Go da ferramenta tcmd no Github [aqui](https://github.com/rvmey/triggercmdGOclient).  
 
-## Youtube video
+## Vídeo do Youtube
 
-To see the **tcmd** tool in action, check out [this Youtube video](https://www.youtube.com/watch?v=q0Uu4SNFKFY).  
+Para ver a ferramenta **tcmd** em ação, confira este [vídeo do Youtube](https://www.youtube.com/watch?v=q0Uu4SNFKFY).  

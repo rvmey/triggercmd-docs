@@ -1,17 +1,17 @@
-# Computers
+# Computadores
 
-## Add a computer
+## Adicionar um computador
 
-To add your computer to your TRIGGERcmd account, you'll need to install a TRIGGERcmd agent on it.  
+Para adicionar o seu computador à sua conta TRIGGERcmd, você precisará instalar um agente TRIGGERcmd nele. 
 
-The agent installer will ask your for a **token** to log it in.  
+O instalador do agente irá solicitar um **token** para efetuar o login.
 
-Copy the token from the [instructions page](https://www.triggercmd.com/user/computer/create) and paste it into the token prompt.  
+Copy the token from the Copie o token da [página de instruções](https://www.triggercmd.com/user/computer/create) e cole-o no campo de inserção de token.
 
-## Agent download links
+## Links para download do agente
 
-  * [Windows Agent](https://agents.triggercmd.com/TRIGGERcmdAgentSetup.exe)
-  * [Mac Agent](https://agents.triggercmd.com/TRIGGERcmdAgent.dmg)
-  * [Linux Agent RPM for Redhat](https://agents.triggercmd.com/triggercmdagent-1.0.1.x86_64.rpm)
-  * [Linux Agent DEB for Ubuntu](https://agents.triggercmd.com/triggercmdagent_1.0.1_amd64.deb) ([instructions](https://www.triggercmd.com/forum/topic/11/ubuntu-linux-agent-instructions))
-  * [Linux Agent DEB for Raspberry Pi](https://agents.triggercmd.com/triggercmdagent_1.0.1_all.deb) ([instructions](https://www.triggercmd.com/forum/topic/12/raspberry-pi-setup))
+  * [Agente para Windows](https://agents.triggercmd.com/TRIGGERcmdAgentSetup.exe)
+  * [Agente para Mac](https://agents.triggercmd.com/TRIGGERcmdAgent.dmg)
+  * [Agente para Linux RPM para Redhat](https://agents.triggercmd.com/triggercmdagent-1.0.1.x86_64.rpm)
+  * [Agente para Linux DEB para Ubuntu](https://agents.triggercmd.com/triggercmdagent_1.0.1_amd64.deb) ([instruções](https://www.triggercmd.com/forum/topic/11/ubuntu-linux-agent-instructions))
+  * [Agente para Linux DEB para Raspberry Pi](https://agents.triggercmd.com/triggercmdagent_1.0.1_all.deb) ([instruções](https://www.triggercmd.com/forum/topic/12/raspberry-pi-setup))

@@ -14,6 +14,7 @@
   * [SmartThings](./SmartThings.md)
   * [Make](./Make.md)
   * [Microsoft Power Automate](./MSPowerAutomate.md)
+  * [Pipedream](pt/Pipedream.md)
 * [tcmd cli tool](./tcmdCLI.md)
 * [Computer Sharing](./ComputerSharing.md)
 * API

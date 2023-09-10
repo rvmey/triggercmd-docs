@@ -1,37 +1,37 @@
-# Virtual Smart Home Switches
+# Interruptores Virtuais para Casa Inteligente
 
-## Integrations that create virtual switches
+## Integrações que criam interruptores virtuais
 
-* TRIGGERcmd Smart Home Alexa skill
-* TRIGGERcmd Smart Home Google Assistant action
-* TRIGGERcmd Samsung SmartThings integration
+* Habilidade Alexa TRIGGERcmd Smart Home
+* Ação Google Assistant TRIGGERcmd Smart Home
+* Integração TRIGGERcmd Samsung SmartThings
 
-## Switch creation and naming
+## Criação e nomeação dos interruptores
 
-Both commands and computers have a **voice** field that determines what your virtual switches will be named.  If those voice fields are empty, a virtual switch may not be created.  
+Tanto os comandos quanto os computadores têm um campo de **voz** que determina como seus interruptores virtuais serão nomeados. Se esses campos de voz estiverem vazios, um interruptor virtual pode não ser criado. 
 
-For a virtual switch to be created, each of your commands must have a value in the **voice** field (like "calculator") because the command's **voice** field value is used in the name of the virtual switch.  
+Para que um interruptor virtual seja criado, cada um dos seus comandos deve ter um valor no campo de **voz** (como "calculadora"), porque o valor do campo de **voz** do comando é usado no nome do interruptor virtual.
 
-For a virtual switch to be created, each of your computers must also have a value in the **voice** field (like "laptop") because the computer's **voice** field value is used in the name of the virtual switch (example: **calculator on laptop**).  
+Para que um interruptor virtual seja criado, cada um dos seus computadores também deve ter um valor no campo de **voz** (como "laptop"), porque o valor do campo de **voz** do computador é usado no nome do interruptor virtual (exemplo: **calculadora no laptop**). 
 
-The exception is your default computer.  Your default computer's voice field can be empty because it is not used in the names of your virtual switches.  Instead, just the command voice field values are used (example: **calculator**).
+A exceção é o seu computador padrão. O campo de voz do seu computador padrão pode estar vazio porque não é usado nos nomes dos seus interruptores virtuais. Em vez disso, apenas os valores dos campos de voz dos comandos são usados (exemplo: **calculadora**).
 
-The first computer in your account is your default computer by default, but if you have multiple computers, you can change your default computer.  
+O primeiro computador na sua conta é o seu computador padrão por padrão, mas se você tiver vários computadores, pode alterar o seu computador padrão. 
 
-Virtual switches for your default computer are:
+Interruptores virtuais para o seu computador padrão são:
 
-1. Named with the command's voice field only (ie: calculator).
-1. Created whether computer's voice field is empty or not.
+1. Nomeados apenas com o valor do campo de voz do comando (ou seja, calculadora).
+1. Criados se o campo de voz do computador estiver vazio ou não.
 
-Virtual switches for your non-default computers are:
+Interruptores virtuais para os seus computadores não padrão são:
 
-1. Named with both the command and computer's voice field (ie: calculator on laptop).
-1. Will be created even if your default computer's voice field in empty.
+1. Nomeados com os valores dos campos de voz do comando e do computador (ou seja, calculadora no laptop).
+1. Serão criados mesmo que o campo de voz do seu computador padrão esteja vazio.
 
-# Flipping virtual switches on and off
+# Ligando e Desligando Interruptores Virtuais
 
-If your command has "Allow Parameters" set to true and the "Off Command" field is empty, when you flip the command's virtual switch on or off, it will run your command with **on** or **off** as a command parameter.  
+Se o seu comando tiver "Permitir Parâmetros" definido como verdadeiro e o campo "Comando de Desativação" estiver vazio, quando você liga ou desliga o interruptor virtual do comando, ele executará o seu comando com **on** ou **off** como parâmetro do comando.
 
-Or, if you put a command in the "Off Command" field, it will run when you flip the switch off.    
+Ou, se você colocar um comando no campo "Comando de Desativação", ele será executado quando você desligar o interruptor.
 
-If "Allow Parameters" set to false, the command in the "Command" field runs whether you flip the switch on or off.
+Se "Permitir Parâmetros" estiver definido como falso, o comando no campo "Comando" será executado, quer você ligue ou desligue o interruptor.

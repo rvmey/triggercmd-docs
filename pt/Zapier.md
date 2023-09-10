@@ -1,9 +1,9 @@
 # Zapier
 
-Zapier let's you connect various Internet services together to automate things using what they call "Zaps."
+O Zapier permite que você conecte diversos serviços da Internet para automatizar tarefas usando o que eles chamam de "Zaps".
 
-You can create a Zapier Zap that runs a command on one of your computers.
+Você pode criar um Zap no Zapier que execute um comando em um dos seus computadores.
 
-Click [here](https://zapier.com/apps/triggercmd) to connect your Zapier account to TRIGGERcmd, or lookup TRIGGERcmd when you build your Zap.
+Clique [aqui](https://zapier.com/apps/triggercmd) para conectar a sua conta do Zapier ao TRIGGERcmd, ou procure por TRIGGERcmd ao construir o seu Zap.
 
-![TRIGGERcmd in Zapier Zap](images/zapier-zap.png)
+![TRIGGERcmd em Zapier Zap](images/zapier-zap.png)

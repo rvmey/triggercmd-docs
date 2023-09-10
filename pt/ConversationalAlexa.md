@@ -1,34 +1,33 @@
-# Conversational Alexa skills
+# Habilidades Conversacionais da Alexa
 
-The original conversational Alexa skill is was called "TRIGGERcmd."  The newer conversational skills called "TRIGGER command" and "TC" were created as alternatives.  They work the same except for the activation words.  
+A habilidade conversacional original da Alexa era chamada "TRIGGERcmd". As habilidades conversacionais mais recentes chamadas "TRIGGER command" e "TC" foram criadas como alternativas. Elas funcionam da mesma forma, exceto pelas palavras de ativação.
 
-These are the basic sentence patterns to run a command via the three conversational skills:
+Aqui estão os padrões básicos de frases para executar um comando através das três habilidades conversacionais:
 
-* Alexa, ask trigger C M D to run calculator.
-* Alexa, ask trigger command to run calculator.
-* Alexa, ask T C to run calculator.
+* Alexa, perguntar pra Execute Comando para executar calculadora.
+* Alexa, perguntar pra TC para executar calculadora.
 
-To run a command on your default computer with parameters, say:
+Para executar um comando no seu computador padrão com parâmetros, diga:
 
-* Alexa, ask trigger C M D to run notepad with parameter note.
+* Alexa, perguntar pra Execute Comando para executar notepad com o parâmetro note.
 
-This would run **notepad note** assuming your default computer runs Windows, it still has the built-in notepad command, and you've updated it to enable parameters.  Notepad will open and ask you if you want to create a new file called note.txt.
+Isso executaria o **notepad note**, supondo que o seu computador padrão seja Windows, ele ainda tenha o comando integrado do notepad e você o tenha atualizado para permitir parâmetros. O notepad será aberto e perguntará se você deseja criar um novo arquivo chamado note.txt.
 
 ![TRIGGERcmd.com](pt/images/notepad_note.png)
 
-To run a command on your non-default computer with **laptop** in the computer's voice field, say:
+Para executar um comando no seu computador não padrão com **laptop** no campo de voz do computador, diga:
 
-* Alexa, ask trigger C M D to calculator on laptop.
+* Alexa, pergunte a trigger C M D para executar a calculadora no laptop.
 
-To see a list sentences to run your commands via the conversational skills, see the [Voice Commands](https://www.triggercmd.com/user/command/printlist) page.
+Para ver uma lista de frases para executar seus comandos através das habilidades conversacionais, consulte a página de [Comandos de Voz](https://www.triggercmd.com/user/command/printlist).
 
-## Activate one of the original conversational Alexa skills
+## Ativar uma das habilidades conversacionais originais da Alexa
 
-You can use these Amazon pages to link the conversational skills: 
+Você pode usar estas páginas da Amazon para vincular as habilidades conversacionais:
 * [TRIGGERcmd](https://www.amazon.com/gp/product/B06XFN2TZN)
-* [TRIGGER command](https://www.amazon.com/gp/product/B074TV61DK) 
+* [TRIGGER comando](https://www.amazon.com/gp/product/B074TV61DK) 
 * [TC](https://www.amazon.com/gp/product/B0BMGG4SHS)
 
-## Alternative Alexa skills
+## Habilidades Alexa Alternativas
 
-Most people should use the [TRIGGERcmd Smart Home](pt/SmartHomeAlexa.md) Alexa skill instead of a conversational skill because Alexa more consistently matches your spoken words to your commands when you use the TRIGGERcmd Smart Home skill.  
+A maioria das pessoas deve usar a habilidade [Alexa TRIGGERcmd Casa Inteligente](pt/SmartHomeAlexa.md) em vez de uma habilidade conversacional, porque a Alexa corresponde de forma mais consistente às suas palavras faladas aos seus comandos quando você usa a habilidade TRIGGERcmd Smart Home.

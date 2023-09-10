@@ -1,10 +1,10 @@
-# Trigger Commands
+# Comandos de Trigger
 
-There are many ways to trigger your commands, including Alexa, Google Home, SmartThings, IFTTT, and Zapier.  
+Existem muitas maneiras de acionar os seus comandos, incluindo Alexa, Google Home, SmartThings, IFTTT e Zapier.  
 
-See [this page](https://www.triggercmd.com/forum/topic/30/list-of-ways-to-trigger-your-commands) on the TRIGGERcmd forum for a list of methods.
+Consulte [esta página](https://www.triggercmd.com/forum/topic/30/list-of-ways-to-trigger-your-commands) no fórum TRIGGERcmd para obter uma lista de métodos.
 
-If you want to use your voice, start with these:
+Se você deseja usar a sua voz, comece com estes:
 
-* [TRIGGERcmd Smart Home Alexa skill](pt/SmartHomeAlexa.md)
-* [TRIGGERcmd Smart Home Google Assistant action](pt/SmartHomeGoogle.md)
+* [Habilidade Alexa TRIGGERcmd Smart Home](pt/SmartHomeAlexa.md)
+* [Ação Google Assistant TRIGGERcmd Smart Home](pt/SmartHomeGoogle.md)

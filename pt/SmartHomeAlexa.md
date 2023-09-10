@@ -1,40 +1,40 @@
-# TRIGGERcmd Smart Home Alexa skill
+# Habilidade Alexa TRIGGERcmd Casa Inteligente
 
-## Activate the **TRIGGERcmd Smart Home** Alexa skill
+## Ative a habilidade Alexa **TRIGGERcmd Casa Inteligente**
 
-Click the appropriate Amazon link for your language below, then link your Amazon account to your TRIGGERcmd account.  
+Clique no link da Amazon apropriado para o seu país abaixo e vincule a sua conta da Amazon à sua conta TRIGGERcmd.
 
-* [United States (english)](https://www.amazon.com/dp/B07P1MMFRP)
-* [Brazil](https://www.amazon.com.br/VanderMey-Consulting-LLC-TRIGGERcmd-Smart/dp/B07P1MMFRP)  ([Portuguese video](https://www.youtube.com/watch?v=FTxIabp8CRg))
-* [Germany](https://www.amazon.de/VanderMey-Consulting-LLC-TRIGGERcmd-Smart/dp/B07P1MMFRP)
-* [Canada](https://www.amazon.ca/VanderMey-Consulting-LLC-TRIGGERcmd-Smart/dp/B07P1MMFRP)
-* [Australia](https://www.amazon.com.au/VanderMey-Consulting-LLC-TRIGGERcmd-Smart/dp/B07P1MMFRP)
-* [France](https://www.amazon.fr/VanderMey-Consulting-LLC-TRIGGERcmd-Smart/dp/B07P1MMFRP)
-* [India](https://www.amazon.in/VanderMey-Consulting-LLC-TRIGGERcmd-Smart/dp/B07P1MMFRP)
-* [Italy](https://www.amazon.it/VanderMey-Consulting-LLC-TRIGGERcmd-Smart/dp/B07P1MMFRP)
-* [Mexico](https://www.amazon.com.mx/VanderMey-Consulting-LLC-Inteligente-TRIGGERcmd/dp/B07P1MMFRP)
-* [Spain](https://www.amazon.es/VanderMey-Consulting-LLC-Inteligente-TRIGGERcmd/dp/B07P1MMFRP)
-* [England](https://www.amazon.co.uk/VanderMey-Consulting-LLC-TRIGGERcmd-Smart/dp/B07P1MMFRP)
-* [Japan](https://www.amazon.co.jp/VanderMey-Consulting-LLC-TRIGGERcmd-Smart/dp/B07P1MMFRP)
+* [Estados Unidos (inglês)](https://www.amazon.com/dp/B07P1MMFRP)
+* [Brasil](https://www.amazon.com.br/VanderMey-Consulting-LLC-TRIGGERcmd-Smart/dp/B07P1MMFRP)  ([vídeo em português](https://www.youtube.com/watch?v=FTxIabp8CRg))
+* [Alemanha](https://www.amazon.de/VanderMey-Consulting-LLC-TRIGGERcmd-Smart/dp/B07P1MMFRP)
+* [Canadá](https://www.amazon.ca/VanderMey-Consulting-LLC-TRIGGERcmd-Smart/dp/B07P1MMFRP)
+* [Austrália](https://www.amazon.com.au/VanderMey-Consulting-LLC-TRIGGERcmd-Smart/dp/B07P1MMFRP)
+* [França](https://www.amazon.fr/VanderMey-Consulting-LLC-TRIGGERcmd-Smart/dp/B07P1MMFRP)
+* [Índia](https://www.amazon.in/VanderMey-Consulting-LLC-TRIGGERcmd-Smart/dp/B07P1MMFRP)
+* [Itália](https://www.amazon.it/VanderMey-Consulting-LLC-TRIGGERcmd-Smart/dp/B07P1MMFRP)
+* [México](https://www.amazon.com.mx/VanderMey-Consulting-LLC-Inteligente-TRIGGERcmd/dp/B07P1MMFRP)
+* [Espanha](https://www.amazon.es/VanderMey-Consulting-LLC-Inteligente-TRIGGERcmd/dp/B07P1MMFRP)
+* [Inglaterra](https://www.amazon.co.uk/VanderMey-Consulting-LLC-TRIGGERcmd-Smart/dp/B07P1MMFRP)
+* [Japão](https://www.amazon.co.jp/VanderMey-Consulting-LLC-TRIGGERcmd-Smart/dp/B07P1MMFRP)
 
-You should now have a virtual switch called "calculator" so you can say, "Alexa, turn on calculator" to run calculator on your computer.
+Agora você deve ter um interruptor virtual chamado "calculadora", então você pode dizer: "Alexa, ligue a calculadora" para executar a calculadora no seu computador.
 
-Click [here](pt/SmartHomeSwitches.md) for more detail about these virtual switches.
+Clique [aqui](pt/SmartHomeSwitches.md) para mais detalhes sobre esses interruptores virtuais.
 
-This [YouTube video](https://www.youtube.com/watch?v=9Jm_s9sTZXw) shows how it works.
+Este [vídeo do YouTube](https://www.youtube.com/watch?v=9Jm_s9sTZXw) mostra como funciona.
 
-To see a list of sentences that will run your commands via the TRIGGERcmd Smart Home skill, see the [Smart Home Voice Commands](https://www.triggercmd.com/user/command/shprintlist) page.
+Para ver uma lista de frases que executarão seus comandos via a habilidade TRIGGERcmd Smart Home da Alexa, consulte a página de  [Comandos de Voz para Casa Inteligente](https://www.triggercmd.com/user/command/shprintlist).
 
-## Trigger Alexa Routines
+## Acionar Rotinas da Alexa
 
-When you enable the **TRIGGERcmd Smart Home** Alexa skill, you can also create Alexa Routines that run when your TRIGGERcmd command runs.  
+Quando você ativa a habilidade Alexa **TRIGGERcmd Casa Inteligente** você também pode criar Rotinas da Alexa que são executadas quando o seu comando TRIGGERcmd é acionado. 
 
-In the Alexa app, create a new Routine and select **Smart Home** under **When this happens** and you'll see a list of your TRIGGERcmd virtual switches.  
+No aplicativo Alexa, crie uma nova Rotina e selecione **Casa Inteligente** em **Quando isso acontecer** e você verá uma lista dos seus interruptores virtuais TRIGGERcmd.
 
-This [YouTube video](https://www.youtube.com/watch?v=nrqj-OwDpGE) shows how it works.
+Este [vídeo do YouTube](https://www.youtube.com/watch?v=nrqj-OwDpGE) mostra como funciona.
 
-## Alternative Alexa skills
+## Habilidades Alexa Alternativas
 
-For most use-cases, the **TRIGGERcmd Smart Home** Alexa skill works best, but there are some that can only be accomplished using one of the conversational Alexa skills.  For example, the **Voice Reply** field only works with conversational skills.
+Para a maioria dos casos de uso, a habilidade Alexa **TRIGGERcmd Casa Inteligente** funciona melhor, mas existem alguns casos que só podem ser realizados usando uma das habilidades conversacionais da Alexa. Por exemplo, o campo **Resposta por Voz** só funciona com habilidades conversacionais.
 
-The conversational skills do not create a virtual switch for each command like the Smart Home skill does, so Alexa doesn't have a list of what you might say ahead of time, which make it less likely Alexa will successfully match your spoken words to your commands.  
+As habilidades conversacionais não criam um interruptor virtual para cada comando, como a habilidade Casa Inteligente faz, então a Alexa não tem uma lista do que você pode dizer com antecedência, o que torna menos provável que suas palavras faladas coincidam com seus comandos.

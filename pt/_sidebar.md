@@ -1,19 +1,20 @@
 <!-- docs/_sidebar.md -->
 
-* [Quick Start](pt/QuickStart.md)
+* [Início rápido](pt/QuickStart.md)
 
-* [Computers](pt/Computers.md)
-* [Commands](pt/Commands.md)
-* [Trigger a command](pt/TriggerCommands.md)
-* Voice Assistants
+* [Computadores](pt/Computers.md)
+* [Criando comandos](pt/Commands.md)
+* [Acionar um Comando](pt/TriggerCommands.md)
+* Assistentes de voz
   * [Alexa](pt/Alexa.md)
   * [Google Assistant](pt/SmartHomeGoogle.md)
-* Integrations
+* Integrações
   * [IFTTT](pt/IFTTT.md)
   * [Zapier](pt/Zapier.md)
   * [SmartThings](pt/SmartThings.md)
   * [Make](pt/Make.md)
   * [Microsoft Power Automate](pt/MSPowerAutomate.md)
+  * [Pipedream](pt/Pipedream.md)
 * [tcmd cli tool](pt/tcmdCLI.md)
 * [Computer Sharing](pt/ComputerSharing.md)
 * API

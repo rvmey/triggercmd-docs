@@ -2,18 +2,18 @@
 
 ![make](https://triggercmdagents.s3.amazonaws.com/Pics/Make-Formerly-Integromat-Primary-Version.jpg)
 
-Similar to IFTTT or Zapier, Make let's you connect TRIGGERcmd with other Internet services.  It's very flexible.  
+Similar ao IFTTT ou ao Zapier, o Make permite que você conecte o TRIGGERcmd a outros serviços da Internet. É muito flexível.
 
-Make is a visual platform that lets you design, build, and automate anything–from simple tasks to complex workflows—in minutes.  With Make, you can connect TRIGGERcmd with any of your favorite apps. It’s fast and easy to use, visually intuitive, and requires zero coding expertise
+O Make é uma plataforma visual que permite que você projete, construa e automatize qualquer coisa, desde tarefas simples até fluxos de trabalho complexos, em minutos. Com o Make, você pode conectar o TRIGGERcmd a qualquer um dos seus aplicativos favoritos. É rápido e fácil de usar, visualmente intuitivo e não requer nenhuma experiência em codificação.
 
-Connect TRIGGERcmd to Make **[here](https://www.make.com/en/integrations/triggercmd?utm_source=triggercmd&utm_medium=partner&utm_campaign=triggercmd-partner-program)**.
+Conecte o TRIGGERcmd ao Make **[aqui](https://www.make.com/en/integrations/triggercmd?utm_source=triggercmd&utm_medium=partner&utm_campaign=triggercmd-partner-program)**.
 
-Here's a [Youtube video](https://youtu.be/KLCFZpLEnwU) showing how it works.
+Aqui está um [vídeo do YouTube](https://youtu.be/KLCFZpLEnwU) que mostra como funciona.
 
-**Key Features:**
+**Recursos Principais:**
 
-*	Drag and drop feature to connect thousands of integrated apps
-*	Schedule your workflow to execute whenever you need—even if you’re not currently using TRIGGERcmd.
-*	Design workflows with as many apps and steps as you need. Add filters and conditional logic for more complex processes. 
+*	Recurso de arrastar e soltar para conectar milhares de aplicativos integrados.
+*	Agende o seu fluxo de trabalho para ser executado sempre que você precisar, mesmo que você não esteja usando atualmente o TRIGGERcmd.
+*	Projete fluxos de trabalho com quantos aplicativos e etapas forem necessários. Adicione filtros e lógica condicional para processos mais complexos.
 
 ![make flow](https://triggercmdagents.s3.amazonaws.com/Pics/make_flow.png)
