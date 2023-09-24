@@ -2,9 +2,7 @@
 
 ## Ative a habilidade de **Casa Inteligente TRIGGERcmd** no Google Assistant.
 
-Clique [aqui](https://assistant.google.com/services/a/uid/0000002be4521c02) para um link direto para a página da Casa Inteligente TRIGGERcmd, mas você não pode ativar a action a partir dali.
-
-Em vez disso, você deve encontrá-la no aplicativo Home nas configurações do Assistente, no controle da Casa.  
+Você pode encontrá-lo no app Home, nas configurações do Assistente, em Home Control.
 ![TRIGGERcmd.com](images/search-for-triggercmd-smart-home.png)
 
 Clique [aqui](pt/SmartHomeSwitches.md) para mais detalhes sobre esses interruptores virtuais.

@@ -2,9 +2,7 @@
 
 ## Activa la acción **TRIGGERcmd Smart Home** del Asistente de Google
 
-Haga clic [aquí](https://assistant.google.com/services/a/uid/0000002be4521c02) para obtener un enlace directo a la página de inicio inteligente de TRIGGERcmd, pero no puede activar la acción desde allí.
-
-En su lugar, debe encontrarlo en la aplicación Google Home en Configuración del Asistente, Control del hogar. 
+Puede encontrarlo en la aplicación Google Home en Configuración del asistente, Control del hogar.
 ![TRIGGERcmd.com](./images/search-for-triggercmd-smart-home.png)
 
 Haga clic [aquí](./es/SmartHomeSwitches.md) para obtener más detalles sobre estos conmutadores virtuales.
