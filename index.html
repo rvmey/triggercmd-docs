@@ -2,20 +2,34 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Document</title>
+  <title>TRIGGERcmd Documentation</title>
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
   <meta name="description" content="Description">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
+  <link rel="shortcut icon" type="image/x-icon" href="https://triggercmd.com/favicon.ico">
 </head>
 <body>
   <div id="app"></div>
   <script>
     window.$docsify = {
+      alias: {
+        '/.*/_navbar.md': '/_navbar.md'
+      },
       el: "#app",
       name: 'TRIGGERcmd',
       repo: 'https://github.com/rvmey/triggercmd-docs',
-      loadSidebar: true
+      loadSidebar: true,
+      fallbackLanguages: ['en'],
+      logo: '/images/logo.svg',
+      executeScript: true,
+      loadSidebar: true,
+      loadNavbar: true,
+      nameLink: {
+          '/es/': '#/es/',
+          '/pt/': '#/pt/',
+          '/': '#/'
+      },
     }
   </script>
   <!-- Docsify v4 -->

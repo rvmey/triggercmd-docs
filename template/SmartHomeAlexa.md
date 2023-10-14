@@ -2,7 +2,7 @@
 
 ## Activate the **TRIGGERcmd Smart Home** Alexa skill
 
-Click the appropriate Amazon link for your country below, then link your Amazon account to your TRIGGERcmd account.  
+Click the appropriate Amazon link for your language below, then link your Amazon account to your TRIGGERcmd account.  
 
 * [United States (english)](https://www.amazon.com/dp/B07P1MMFRP)
 * [Brazil](https://www.amazon.com.br/VanderMey-Consulting-LLC-TRIGGERcmd-Smart/dp/B07P1MMFRP)  ([Portuguese video](https://www.youtube.com/watch?v=FTxIabp8CRg))
@@ -19,7 +19,7 @@ Click the appropriate Amazon link for your country below, then link your Amazon 
 
 You should now have a virtual switch called "calculator" so you can say, "Alexa, turn on calculator" to run calculator on your computer.
 
-Click [here](./SmartHomeSwitches.md) for more detail about these virtual switches.
+Click [here](pt/SmartHomeSwitches.md) for more detail about these virtual switches.
 
 This [YouTube video](https://www.youtube.com/watch?v=9Jm_s9sTZXw) shows how it works.
 
@@ -37,4 +37,4 @@ This [YouTube video](https://www.youtube.com/watch?v=nrqj-OwDpGE) shows how it w
 
 For most use-cases, the **TRIGGERcmd Smart Home** Alexa skill works best, but there are some that can only be accomplished using one of the conversational Alexa skills.  For example, the **Voice Reply** field only works with conversational skills.
 
-The conversational skills do not create a virtual switch for each command like the Smart Home skill does, so Alexa doesn't have a list of what you might say ahead of time, which makes it less likely your spoken words will match your commands.  
+The conversational skills do not create a virtual switch for each command like the Smart Home skill does, so Alexa doesn't have a list of what you might say ahead of time, which make it less likely Alexa will successfully match your spoken words to your commands.  
