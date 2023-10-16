@@ -1,21 +1,21 @@
-# Command Line Interface tool
+# Command Line Interface toolHerramienta de interfaz de línea de comando
 
-## Download tcmd
+## Descargar tcmd
 
-* [Windows 64bit (most common)](https://triggercmdagents.s3.amazonaws.com/tcmd_cli/tcmd-windows-amd64.exe)
-* [Windows 32bit](https://triggercmdagents.s3.amazonaws.com/tcmd_cli/tcmd-windows-386.exe)
-* [Mac 64bit](https://triggercmdagents.s3.amazonaws.com/tcmd_cli/tcmd-darwin-amd64)
-* [Linux 32bit](https://triggercmdagents.s3.amazonaws.com/tcmd_cli/tcmd-linux-386)
-* [Linux 64bit](https://triggercmdagents.s3.amazonaws.com/tcmd_cli/tcmd-linux-amd64)
-* [Linux arm (ie: Raspberry Pi or Orange Pi)](https://triggercmdagents.s3.amazonaws.com/tcmd_cli/tcmd-linux-arm)
+* [Windows de 64 bits (el más común)](https://triggercmdagents.s3.amazonaws.com/tcmd_cli/tcmd-windows-amd64.exe)
+* [Windows de 32 bit](https://triggercmdagents.s3.amazonaws.com/tcmd_cli/tcmd-windows-386.exe)
+* [Mac de 64 bit](https://triggercmdagents.s3.amazonaws.com/tcmd_cli/tcmd-darwin-amd64)
+* [Linux de 32 bit](https://triggercmdagents.s3.amazonaws.com/tcmd_cli/tcmd-linux-386)
+* [Linux de 64 bit](https://triggercmdagents.s3.amazonaws.com/tcmd_cli/tcmd-linux-amd64)
+* [Linux arm (ie: Raspberry Pi o Orange Pi)](https://triggercmdagents.s3.amazonaws.com/tcmd_cli/tcmd-linux-arm)
 
-After you download it, rename it to tcmd, or tcmd.exe on Windows.  
+Después de descargarlo, cámbiele el nombre a tcmd o tcmd.exe en Windows.
 
-Move it to **/usr/local/bin** or **C:\Windows**, or some other folder listed in your PATH environment variable if you want to be able to run it from any folder.  
+Muévalo a **/usr/local/bin** o **C:\Windows**, o alguna otra carpeta listada en su variable de entorno PATH si desea poder ejecutarlo desde cualquier carpeta.
 
-## tcmd usage
+## Uso de tcmd
 
-Run this command to get help text:
+Ejecute este comando para obtener texto de ayuda:
 ```
 tcmd -h
 ```
@@ -27,22 +27,22 @@ NAME:
     tcmd [options]
 
   OPTIONS:
-    --trigger value, -t value   Trigger name of the command you want to run
-    --computer value, -c value  Name of the computer (leave blank for your default computer)
-    --params value, -p value    Any parameters you want to add to the remote command
-    --panel value, -P value     Name of the panel you want to use
-    --button value, -b value    Name of the panel button to "press"
-    --list, -l                  List your commands
-    --listpanels, -L            List your panels
-    --pair                      Login using a pair code
-    --help, -h                  show help
-    --version, -v               print the version
+    --trigger value, -t value   Nombre del activador del comando que desea ejecutar
+    --computer value, -c value  Nombre de la computadora (déjelo en blanco para su computadora predeterminada)
+    --params value, -p value    Cualquier parámetro que desee agregar al comando remoto
+    --panel value, -P value     Nombre del panel que desea utilizar
+    --button value, -b value    Nombre del botón del panel a "presionar"
+    --list, -l                  Enumere sus comandos
+    --listpanels, -L            Lista tus paneles
+    --pair                      Inicie sesión usando un código de par
+    --help, -h                  mostrar ayuda
+    --version, -v               imprimir la versión
 ```
 
-## Source code
+## Código fuente
 
-You can view the Go source code for the tcmd tool on Github [here](https://github.com/rvmey/triggercmdGOclient).  
+Puede ver el código fuente de Go para la herramienta tcmd en Github [aquí](https://github.com/rvmey/triggercmdGOclient).  
 
-## Youtube video
+## Video de Youtube
 
-To see the **tcmd** tool in action, check out [this Youtube video](https://www.youtube.com/watch?v=q0Uu4SNFKFY).  
+Para ver la herramienta **tcmd** en acción, mira [este vídeo de Youtube](https://www.youtube.com/watch?v=q0Uu4SNFKFY).  
