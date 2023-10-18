@@ -8,30 +8,30 @@
 
 ## Cambiar creación y denominación
 
-Both commands and computers have a **voice** field that determines what your virtual switches will be named.  If those voice fields are empty, a virtual switch may not be created.  
+Tanto los comandos como las computadoras tienen un campo de **voz** que determina el nombre de sus conmutadores virtuales. Si esos campos de voz están vacíos, es posible que no se cree un conmutador virtual.
 
-For a virtual switch to be created, each of your commands must have a value in the **voice** field (like "calculator") because the command's **voice** field value is used in the name of the virtual switch.  
+Para que se cree un conmutador virtual, cada uno de sus comandos debe tener un valor en el campo **voz** (como "calculadora") porque el valor del campo **voz** del comando se utiliza en el nombre del conmutador virtual.
 
-For a virtual switch to be created, each of your computers must also have a value in the **voice** field (like "laptop") because the computer's **voice** field value is used in the name of the virtual switch (example: **calculator on laptop**).  
+Para que se cree un conmutador virtual, cada una de sus computadoras también debe tener un valor en el campo **voz** (como "laptop") porque el valor del campo **voz** de la computadora se usa en el nombre del conmutador virtual. (ejemplo: **calculadora en computadora portátil**).
 
-The exception is your default computer.  Your default computer's voice field can be empty because it is not used in the names of your virtual switches.  Instead, just the command voice field values are used (example: **calculator**).
+La excepción es su computadora predeterminada. El campo de voz predeterminado de su computadora puede estar vacío porque no se usa en los nombres de sus conmutadores virtuales. En su lugar, solo se utilizan los valores del campo de voz del comando (ejemplo: **calculadora**).
 
-The first computer in your account is your default computer by default, but if you have multiple computers, you can change your default computer.  
+La primera computadora en su cuenta es su computadora predeterminada, pero si tiene varias computadoras, puede cambiar su computadora predeterminada.
 
-Virtual switches for your default computer are:
+Los conmutadores virtuales para su computadora predeterminada son:
 
-1. Named with the command's voice field only (ie: calculator).
-1. Created whether computer's voice field is empty or not.
+1. Nombrado únicamente con el campo de voz del comando (es decir, calculadora).
+1. Creado independientemente de que el campo de voz de la computadora esté vacío o no.
 
-Virtual switches for your non-default computers are:
+Los conmutadores virtuales para sus computadoras no predeterminadas son:
 
-1. Named with both the command and computer's voice field (ie: calculator on laptop).
-1. Will be created even if your default computer's voice field in empty.
+1. Nombrado con el comando y el campo de voz de la computadora (es decir, calculadora en la computadora portátil).
+1. Se creará incluso si el campo de voz predeterminado de su computadora está vacío.
 
-# Flipping virtual switches on and off
+# Activar y desactivar interruptores virtuales
 
-If your command has "Allow Parameters" set to true and the "Off Command" field is empty, when you flip the command's virtual switch on or off, it will run your command with **on** or **off** as a command parameter.  
+Si su comando tiene "Permitir parámetros" establecido en verdadero y el campo "Comando apagado" está vacío, cuando encienda o apague el interruptor virtual del comando, ejecutará su comando con **on** o **off** como un parámetro de comando.
 
-Or, if you put a command in the "Off Command" field, it will run when you flip the switch off.    
+O, si coloca un comando en el campo "Comando de apagado", se ejecutará cuando apague el interruptor.
 
-If "Allow Parameters" set to false, the command in the "Command" field runs whether you flip the switch on or off.
+Si "Permitir parámetros" se establece en falso, el comando en el campo "Comando" se ejecuta ya sea que encienda o apague el interruptor.

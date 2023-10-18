@@ -4,10 +4,10 @@
 
 * Cuando cree un flujo, haga clic en Nuevo paso y seleccione **[CONECTOR TRIGGERcmd](https://powerautomate.microsoft.com/en-US/connectors/details/shared_triggercmd/triggercmd/)**
 
-* Complete estos campos bajo Run command:
-  * Command - Trigger name
-  * Computer - Computer name
-  * Parameters - Optionally include text from the previous flow step in command parameters
+* Completa estos campos bajo Run command:
+  * Comando: nombre del trigger
+  * Computadora - Nombre de la computadora
+  * Parámetros: opcionalmente, incluya texto del paso de flujo anterior en los parámetros del comando
 
 ![TRIGGERcmd.com](./images/ms-power-automate.png)
 

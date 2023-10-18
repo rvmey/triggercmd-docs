@@ -8,9 +8,9 @@ Haga clic [aquí](https://pipedream.com/apps/triggercmd) para conectar su cuenta
 
 ![TRIGGERcmd en Pipedream](./images/pipe-dream-step.png)
 
-Fill these field in your **trigger_command** step:
-* Command - Trigger name
-* Computer - Computer name
-* Parameters - Optionally include text from the previous workflow step in command parameters
+Complete estos campos en su paso **trigger_command**
+* Comando: nombre del trigger
+* Computadora - Nombre de la computadora
+* Parámetros - opcionalmente, incluya texto del paso anterior del flujo de trabajo en los parámetros del comando
 
 ![TRIGGERcmd en Pipedream](./images/pipe-dream.png)
