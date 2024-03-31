@@ -20,3 +20,4 @@
 * API
   * [Trigger Command](./API/TriggerCommand.md)
   * [List Commands](./API/ListCommands.md)
+* [System Status](https://status.triggercmd.com/)
