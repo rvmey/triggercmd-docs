@@ -15,4 +15,4 @@ Use Google's script editor (not the Home app) to [create automations](https://ww
 
 # Troubleshooting
 
-If your [virtual switches](./SmartHomeSwitches.md) are offline, rename them to bring them back online.
+If your [virtual switches](./SmartHomeSwitches.md) are offline, change the "Device type" to lights, then change it back to Switch again.

@@ -14,4 +14,4 @@ Para ver uma lista de frases que executarão seus comandos via a action de Casa 
 
 # Solução de problemas
 
-Se seus [switches virtuais](./SmartHomeSwitches.md) estiverem off-line, renomeie-os para colocá-los on-line novamente.
+Se seus [switches virtuais](./SmartHomeSwitches.md) estiverem off-line, altere o Tipo de dispositivo para luzes e, em seguida, altere novamente para Switch.

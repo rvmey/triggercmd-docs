@@ -13,4 +13,4 @@ Para ver una lista de oraciones que ejecutarán sus comandos a través de la acc
 
 # Solución de problemas
 
-Si sus [conmutadores virtuales](./SmartHomeSwitches.md) están fuera de línea, cámbieles el nombre para volver a ponerlos en línea.
+Si sus [conmutadores virtuales](./SmartHomeSwitches.md) están fuera de línea, cambie el Tipo de dispositivo a luces y luego vuelva a cambiarlo a Cambiar.
