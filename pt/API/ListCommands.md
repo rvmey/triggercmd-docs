@@ -11,7 +11,7 @@ headers = {
     "Authorization": "Bearer <your token>"
 }
 
-r = requests.post(url, headers=headers, json=json)
+r = requests.post(url, headers=headers)
 ```
 
 Para autenticação, use um token da página de 

@@ -11,7 +11,7 @@ headers = {
     "Authorization": "Bearer <your token>"
 }
 
-r = requests.post(url, headers=headers, json=json)
+r = requests.post(url, headers=headers)
 ```
 
 Para la autenticación, use un token de la página de [Instrucciones](https://www.triggercmd.com/user/computer/create).
