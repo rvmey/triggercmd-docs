@@ -35,3 +35,7 @@ Se o seu comando tiver "Permitir Parâmetros" definido como verdadeiro e o campo
 Ou, se você colocar um comando no campo "Comando de Desativação", ele será executado quando você desligar o interruptor.
 
 Se "Permitir Parâmetros" estiver definido como falso, o comando no campo "Comando" será executado, quer você ligue ou desligue o interruptor.
+
+# Dicas para evitar problemas ao executar seus comandos com Alexa ou Google Assistente
+
+Não use os nomes dos seus cômodos inteligentes nas palavras de voz. Isso dificulta para eles saberem qual comando você quis acionar.

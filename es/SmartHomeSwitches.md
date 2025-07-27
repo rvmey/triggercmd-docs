@@ -35,3 +35,7 @@ Si su comando tiene "Permitir parámetros" establecido en verdadero y el campo "
 O, si coloca un comando en el campo "Comando de apagado", se ejecutará cuando apague el interruptor.
 
 Si "Permitir parámetros" se establece en falso, el comando en el campo "Comando" se ejecuta ya sea que encienda o apague el interruptor.
+
+# Consejos para evitar problemas al ejecutar tus comandos con Alexa o el Asistente de Google
+
+No uses los nombres de tus habitaciones inteligentes en las palabras de voz. Eso dificulta que ellos sepan qué comando querías activar.
