@@ -1,0 +1,5 @@
+# SmartThings
+
+TRIGGERcmdをSamsung SmartThingsと連携させることで、デバイスの制御やSmartThingsエコシステムからコマンドを実行できます。
+
+詳細は公式ドキュメントまたはサポートフォーラムをご覧ください。
