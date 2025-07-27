@@ -35,3 +35,7 @@ If your command has "Allow Parameters" set to true and the "Off Command" field i
 Or, if you put a command in the "Off Command" field, it will run when you flip the switch off.    
 
 If "Allow Parameters" set to false, the command in the "Command" field runs whether you flip the switch on or off.
+
+# Tips to avoid problems running your commands with Alexa or Google Assistant
+
+Don't use the names of your smart home rooms in your voice words.  That makes it harder for the them to know which command you meant to trigger. 
