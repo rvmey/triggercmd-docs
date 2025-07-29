@@ -9,3 +9,11 @@ Benvenuto su TRIGGERcmd! Questa guida rapida ti aiuterà a configurare ed esegui
 5. Usa Alexa, Google Assistant o un'altra integrazione per attivare il tuo comando.
 
 Per maggiori dettagli, consulta la documentazione completa o il forum di supporto.
+
+## Passi aggiuntivi
+
+* Esplora le diverse integrazioni come IFTTT, Make, Pipedream e SmartThings.
+* Prova le funzionalità API per automazioni avanzate.
+* Esegui regolarmente il backup dei tuoi comandi e computer.
+
+Per maggiori informazioni, consulta la [documentazione ufficiale](https://www.triggercmd.com).

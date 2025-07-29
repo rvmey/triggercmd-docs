@@ -1,5 +1,5 @@
 # Alexa
 
-Sie können den TRIGGERcmd Smart Home Alexa Skill verwenden, um Befehle auf Ihren Computern auszuführen. Stellen Sie sicher, dass Sie Befehle mit klaren Sprachbegriffen hinzugefügt und Ihr TRIGGERcmd-Konto mit Alexa verknüpft haben.
+Die Alexa-Skill namens "[TRIGGERcmd Smart Home](./SmartHomeAlexa.md)" ist für die meisten Anwendungsfälle am besten geeignet.
 
-Weitere Informationen finden Sie in der offiziellen Dokumentation oder im Hilfeforum.
+Eine der "[konversationellen](./ConversationalAlexa.md)" Alexa-Skills sollten Sie nur verwenden, wenn Sie einen speziellen Anwendungsfall haben, der dies erfordert.

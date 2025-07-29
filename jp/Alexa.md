@@ -1,5 +1,6 @@
 # Alexa
 
-TRIGGERcmd Smart Home Alexaスキルを使って、コンピューター上のコマンドを実行できます。明確な音声ワードでコマンドを追加し、TRIGGERcmdアカウントをAlexaにリンクしてください。
+「[TRIGGERcmd Smart Home](./SmartHomeAlexa.md)」Alexaスキルは、ほとんどの用途で最適に動作します。
 
-詳細は公式ドキュメントまたはサポートフォーラムをご覧ください。
+特別なケースで必要な場合のみ、「[会話型](./ConversationalAlexa.md)」Alexaスキルのいずれかを使用してください。
+

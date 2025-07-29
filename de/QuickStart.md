@@ -9,3 +9,11 @@ Willkommen bei TRIGGERcmd! Diese Schnellstartanleitung hilft Ihnen, Ihre ersten 
 5. Verwenden Sie Alexa, Google Assistant oder eine andere Integration, um Ihren Befehl auszulösen.
 
 Für weitere Details lesen Sie die vollständige Dokumentation oder besuchen Sie das Hilfeforum.
+
+## Weitere Schritte
+
+* Erkunden Sie die verschiedenen Integrationen wie IFTTT, Make, Pipedream und SmartThings.
+* Testen Sie die API-Funktionen für fortgeschrittene Automatisierung.
+* Sichern Sie Ihre Befehle und Computer regelmäßig.
+
+Weitere Informationen finden Sie in der [offiziellen Dokumentation](https://www.triggercmd.com).
