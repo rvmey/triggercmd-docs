@@ -10,7 +10,6 @@
 * 連携
   * [IFTTT](./jp/IFTTT.md)
   * [Zapier](./jp/Zapier.md)
-  * [SmartThings](./jp/SmartThings.md)
   * [Make](./jp/Make.md)
   * [Microsoft Power Automate](./jp/MSPowerAutomate.md)
   * [Pipedream](./jp/Pipedream.md)

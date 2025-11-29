@@ -11,7 +11,6 @@
 * Integrations
   * [IFTTT](./IFTTT.md)
   * [Zapier](./Zapier.md)
-  * [SmartThings](./SmartThings.md)
   * [Make](./Make.md)
   * [Microsoft Power Automate](./MSPowerAutomate.md)
   * [Pipedream](pt/Pipedream.md)

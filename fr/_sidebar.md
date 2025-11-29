@@ -10,7 +10,6 @@
 * Intégrations
   * [IFTTT](./fr/IFTTT.md)
   * [Zapier](./fr/Zapier.md)
-  * [SmartThings](./fr/SmartThings.md)
   * [Make](./fr/Make.md)
   * [Microsoft Power Automate](./fr/MSPowerAutomate.md)
   * [Pipedream](./fr/Pipedream.md)
