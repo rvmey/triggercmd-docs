@@ -4,6 +4,7 @@
 * [コンピューター](./jp/Computers.md)
 * [コマンド](./jp/Commands.md)
 * [コマンド実行](./jp/TriggerCommands.md)
+* [MCPサーバー(AIアシスタント)](./jp/MCPServer.md)
 * 音声アシスタント
   * [Alexa](./jp/Alexa.md)
   * [Googleアシスタント](./jp/SmartHomeGoogle.md)

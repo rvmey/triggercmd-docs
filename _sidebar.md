@@ -5,6 +5,7 @@
 * [Computers](./Computers.md)
 * [Commands](./Commands.md)
 * [Trigger a command](./TriggerCommands.md)
+* [MCP Server (AI Assistants)](./MCPServer.md)
 * Voice Assistants
   * [Alexa](./Alexa.md)
   * [Google Assistant](./SmartHomeGoogle.md)

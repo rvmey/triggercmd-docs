@@ -4,6 +4,7 @@
 * [Computer](./it/Computers.md)
 * [Comandi](./it/Commands.md)
 * [Comando di attivazione](./it/TriggerCommands.md)
+* [Server MCP (assistenti IA)](./it/MCPServer.md)
 * Assistenti vocali
   * [Alexa](./it/Alexa.md)
   * [Google Assistant](./it/SmartHomeGoogle.md)
