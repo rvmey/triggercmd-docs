@@ -27,7 +27,7 @@ The agent will appear in your menu bar.
 
 ## Video Walkthrough
 
-[Mac Installation Walkthrough](https://www.youtube.com/watch?v=Sda3vM1cXQI ':include :type=iframe width=100% height=400px')
+[Mac Installation Walkthrough](https://www.youtube.com/embed/Sda3vM1cXQI ':include :type=iframe width=100% height=400px')
 
 ## Next Steps
 

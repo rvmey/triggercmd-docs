@@ -101,7 +101,7 @@ Then follow the same token setup and background service steps above.
 
 ## Video Walkthrough
 
-[Linux Installation Walkthrough](https://www.youtube.com/watch?v=Iv6ifjHyWF4 ':include :type=iframe width=100% height=400px')
+[Linux Installation Walkthrough](https://www.youtube.com/embed/Iv6ifjHyWF4 ':include :type=iframe width=100% height=400px')
 
 ## Next Steps
 
