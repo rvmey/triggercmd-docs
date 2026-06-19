@@ -22,7 +22,7 @@ The agent will start automatically and appear in your system tray.
 
 ## Video Walkthrough
 
-[Windows Installation Walkthrough](https://www.youtube.com/embed/cxOuqIZ1J4k?start=211 ':include :type=iframe width=100% height=400px')
+[Windows Installation Walkthrough](https://www.youtube.com/embed/h4Q25sJn_is?start=14 ':include :type=iframe width=100% height=400px')
 
 ## Next Steps
 
