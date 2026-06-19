@@ -1,5 +1,7 @@
 # Command Line Interface tool
 
+The **tcmd** CLI lets you trigger commands on remote computers from a terminal.
+
 ## Download tcmd
 
 * [Windows 64bit (most common)](https://triggercmdagents.s3.amazonaws.com/tcmd_cli/tcmd-windows-amd64.exe)
@@ -9,9 +11,30 @@
 * [Linux 64bit](https://triggercmdagents.s3.amazonaws.com/tcmd_cli/tcmd-linux-amd64)
 * [Linux arm (ie: Raspberry Pi or Orange Pi)](https://triggercmdagents.s3.amazonaws.com/tcmd_cli/tcmd-linux-arm)
 
-After you download it, rename it to tcmd, or tcmd.exe on Windows.  
+## Setup
 
-Move it to **/usr/local/bin** or **C:\Windows**, or some other folder listed in your PATH environment variable if you want to be able to run it from any folder.  
+### Linux / Mac / Raspberry Pi
+
+```bash
+# Example for Linux ARM (Raspberry Pi) — substitute the correct download for your platform
+wget https://triggercmdagents.s3.amazonaws.com/tcmd_cli/tcmd-linux-arm
+sudo mv tcmd-linux-arm /usr/local/bin/tcmd
+chmod +x /usr/local/bin/tcmd
+```
+
+### Windows
+
+1. Rename the downloaded file to **tcmd.exe**.
+2. Move it to **C:\Windows** or another folder in your PATH.
+
+## Authentication
+
+The first time you run tcmd, you need to authenticate. There are three options:
+
+1. **Pair code** — run `tcmd --pair` and follow the prompts.
+2. **Token file** — if you have the TRIGGERcmd agent installed, tcmd will automatically find your token at `~/.TRIGGERcmdData/token.tkn`.
+3. **Environment variable** — set `TRIGGERCMD_TOKEN` to your token value.
+
 
 ## tcmd usage
 

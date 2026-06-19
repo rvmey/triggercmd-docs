@@ -2,6 +2,11 @@
 
 * [Quick Start](./QuickStart.md)
 
+* Installation
+  * [Windows](./InstallWindows.md)
+  * [Mac](./InstallMac.md)
+  * [Linux (Ubuntu/Debian/Red Hat)](./InstallLinux.md)
+  * [Raspberry Pi](./InstallRaspberryPi.md)
 * [Computers](./Computers.md)
 * [Commands](./Commands.md)
 * [Trigger a command](./TriggerCommands.md)
@@ -14,7 +19,7 @@
   * [Zapier](./Zapier.md)
   * [Make](./Make.md)
   * [Microsoft Power Automate](./MSPowerAutomate.md)
-  * [Pipedream](pt/Pipedream.md)
+  * [Pipedream](./Pipedream.md)
 * [tcmd cli tool](./tcmdCLI.md)
 * [Computer Sharing](./ComputerSharing.md)
 * API
