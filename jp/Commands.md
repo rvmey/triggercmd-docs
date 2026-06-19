@@ -8,17 +8,20 @@
 
 コマンドを追加または編集する最も簡単な方法は、以下に示すGUIコマンドエディターを使用することです。
 
-![GUIエディター](./images/gui-editor.png)
+![GUIエディター](./images/windows-command.png)
 
 | フィールド | 説明 |
 | --- | --- |
 | Trigger | トリガーの名前 |
 | Command | トリガーされたときに実行されるコマンド |
-| Off Command | パラメータが「off」の場合に実行されるコマンド |
+| Off Command | パラメータが「off」の場合に実行されるコマンド（Allow Parametersが有効である必要があります） |
 | Ground | フォアグラウンドまたはバックグラウンドエージェント |
 | Voice | AlexaやGoogle Assistantに話しかける言葉 |
-| Voice Reply | AlexaやGoogle Assistantが返答する言葉 |
+| Voice/MCP Reply | 旧会話型Alexaスキルがこれを返答し、MCPはこのフィールドに{{result}}がある場合に結果を受信します |
+| MCP Tools Description | AIアシスタントにこのコマンドの機能とパラメータの使い方を伝えます — [MCPサーバー](./MCPServer.md)を参照 |
 | Allow Parameters | パラメータを許可するかどうか |
+| Quote Parameters | 有効にすると、パラメータが引用符で囲まれ、複数のパラメータではなく1つの文字列として渡されます |
+| Icon | コマンドのアイコン — リストから選ぶか、独自のものを貼り付けます |
 
 ## 詳細
 
@@ -28,14 +31,14 @@
 
 **Ground** をバックグラウンドに設定するのは、バックグラウンドエージェントをインストールしている場合のみです。バックグラウンドエージェントはWindowsやLinux（Raspberry Pi含む）でインストールできますが、Macではできません。バックグラウンドエージェントはコンピューターの起動時に開始されるため、ログインしていなくても再起動などが可能です。
 
-**Voice Reply** フィールドは、以下の「会話型」Alexaスキル専用です：
+**Voice/MCP Reply** フィールドは、旧「会話型」Alexaスキルと[MCP](./MCPServer.md)で使用されます。会話型Alexaスキルは以下の通りです：
 * [TRIGGERcmd](https://www.amazon.com/gp/product/B06XFN2TZN)
 * [TRIGGER command](https://www.amazon.com/gp/product/B074TV61DK)
 * [TC](https://www.amazon.com/gp/product/B0BMGG4SHS)
 
-「[TRIGGERcmd Smart Home](https://www.amazon.com/gp/product/B07P1MMFRP)」スキル/アクションは **Voice Reply** フィールドを使用しません。
+「[TRIGGERcmd Smart Home](https://www.amazon.com/gp/product/B07P1MMFRP)」スキル/アクションは **Voice/MCP Reply** フィールドを使用しません。
 
-**Voice Reply** フィールドには {{trigger}}、{{computer}}、および [{{result}}](https://www.triggercmd.com/forum/topic/422/have-alexa-or-google-assistant-say-the-result-of-a-command) プレースホルダーを含めることができます。{{result}} プレースホルダーは、Alexaがコマンドの結果を「会話型」Alexaスキル経由で話す場所です。
+**Voice/MCP Reply** フィールドには {{trigger}}、{{computer}}、および [{{result}}](https://www.triggercmd.com/forum/topic/422/have-alexa-or-google-assistant-say-the-result-of-a-command) プレースホルダーを含めることができます。{{result}} プレースホルダーは、Alexaがコマンドの結果を話す場所であり、MCPがコマンドの結果を受信する場所です。
 
 セキュリティ向上のため、コマンドはクラウドに保存されません。コマンドはコンピューター上の commands.json ファイルにのみ保存されます。ユーザーのホームフォルダー内の .TRIGGERcmdData フォルダーで見つけることができます。ハードディスク故障に備えてバックアップを取ることをおすすめします。
 
